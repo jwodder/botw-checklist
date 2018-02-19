@@ -1,0 +1,1478 @@
+{
+    "regions": [
+        {
+            "name": "Akkala",
+            "tower": "Akkala Tower",
+            "korok_seeds": "57"
+        },
+        {
+            "name": "Central",
+            "tower": "Central Tower",
+            "korok_seeds": "114"
+        },
+        {
+            "name": "Dueling Peaks",
+            "tower": "Dueling Peaks Tower",
+            "korok_seeds": "59"
+        },
+        {
+            "name": "Eldin",
+            "tower": "Eldin Tower",
+            "korok_seeds": "45"
+        },
+        {
+            "name": "Faron",
+            "tower": "Faron Tower",
+            "korok_seeds": "58"
+        },
+        {
+            "name": "Gerudo",
+            "tower": "Gerudo Tower",
+            "korok_seeds": "36"
+        },
+        {
+            "name": "Great Plateau",
+            "tower": "Great Plateau Tower",
+            "korok_seeds": "18"
+        },
+        {
+            "name": "Hateno",
+            "tower": "Hateno Tower",
+            "korok_seeds": "66"
+        },
+        {
+            "name": "Hebra",
+            "tower": "Hebra Tower",
+            "korok_seeds": "73"
+        },
+        {
+            "name": "Lake",
+            "tower": "Lake Tower",
+            "korok_seeds": "92"
+        },
+        {
+            "name": "Lanayru",
+            "tower": "Lanayru Tower",
+            "korok_seeds": "62"
+        },
+        {
+            "name": "Ridgeland",
+            "tower": "Ridgeland Tower",
+            "korok_seeds": "80"
+        },
+        {
+            "name": "Tabantha",
+            "tower": "Tabantha Tower",
+            "korok_seeds": "37"
+        },
+        {
+            "name": "Wasteland",
+            "tower": "Wasteland Tower",
+            "korok_seeds": "68"
+        },
+        {
+            "name": "Woodland",
+            "tower": "Woodland Tower",
+            "korok_seeds": "35"
+        }
+    ],
+
+    "shrines": [
+        {
+            "name": "Akh Va'quot Shrine",
+            "region": "Tabantha",
+            "quest": null,
+            "dlc": null,
+            "trial": "Windmills"
+        },
+        {
+            "name": "Bareeda Naag Shrine",
+            "region": "Tabantha",
+            "quest": "The Ancient Rito Song",
+            "dlc": null,
+            "trial": "Cannon"
+        },
+        {
+            "name": "Bosh Kala Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "The Wind Guides You"
+        },
+        {
+            "name": "Chaas Qeta Shrine",
+            "region": "Hateno",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Daag Chokah Shrine",
+            "region": "Woodland",
+            "quest": "The Lost Pilgrimage",
+            "dlc": null,
+            "trial": "Daag Chokah's Blessing"
+        },
+        {
+            "name": "Dagah Keek Shrine",
+            "region": "Lanayru",
+            "quest": "The Ceremonial Song",
+            "dlc": null,
+            "trial": "Dagah Keek's Blessing"
+        },
+        {
+            "name": "Dah Hesho Shrine",
+            "region": "Akkala",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Dah Kaso Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Daka Tuss Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Sunken Scoop"
+        },
+        {
+            "name": "Dako Tah Shrine",
+            "region": "Wasteland",
+            "quest": "The Eye of the Sandstorm",
+            "dlc": null,
+            "trial": "Electric Path"
+        },
+        {
+            "name": "Daqa Koh Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "Stalled Flight"
+        },
+        {
+            "name": "Daqo Chisay Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": null,
+            "trial": "The Whole Picture"
+        },
+        {
+            "name": "Dila Maag Shrine",
+            "region": "Wasteland",
+            "quest": "The Desert Labyrinth",
+            "dlc": null,
+            "trial": "Dila Maag's Blessing"
+        },
+        {
+            "name": "Dow Na'eh Shrine",
+            "region": "Hateno",
+            "quest": null,
+            "dlc": null,
+            "trial": "Three Boxes"
+        },
+        {
+            "name": "Dunba Taag Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Build and Release"
+        },
+        {
+            "name": "Etsu Korima Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Path of Light"
+        },
+        {
+            "name": "Gee Ha'rah Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Tandem"
+        },
+        {
+            "name": "Goma Asaagh Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Gorae Torr Shrine",
+            "region": "Eldin",
+            "quest": "The Gut Check Challenge",
+            "dlc": null,
+            "trial": "Gorae Torr's Blessing"
+        },
+        {
+            "name": "Ha Dahamar Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "The Water Guides"
+        },
+        {
+            "name": "Hawa Koth Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": null,
+            "trial": "The Current Solution"
+        },
+        {
+            "name": "Hia Miu Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Hila Rao Shrine",
+            "region": "Dueling Peaks",
+            "quest": "Watch Out for the Flowers",
+            "dlc": null,
+            "trial": "Drifting"
+        },
+        {
+            "name": "Ishto Soh Shrine",
+            "region": "Lake",
+            "quest": null,
+            "dlc": null,
+            "trial": "Bravery's Grasp"
+        },
+        {
+            "name": "Ja Baij Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": null,
+            "trial": "Bomb Trial"
+        },
+        {
+            "name": "Jee Noh Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": null,
+            "trial": "On the Move"
+        },
+        {
+            "name": "Jitan Sa'mi Shrine",
+            "region": "Hateno",
+            "quest": "The Spring of Wisdom",
+            "dlc": null,
+            "trial": "Jitan Sa'mi's Blessing"
+        },
+        {
+            "name": "Joloo Nah Shrine",
+            "region": "Gerudo",
+            "quest": "Test of Will",
+            "dlc": null,
+            "trial": "Joloo Nah Apparatus"
+        },
+        {
+            "name": "Ka'o Makagh Shrine",
+            "region": "Lake",
+            "quest": null,
+            "dlc": null,
+            "trial": "Metal Doors Open the Way"
+        },
+        {
+            "name": "Kaam Ya'tak Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "Trial of Power"
+        },
+        {
+            "name": "Kah Mael Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Drop and Rise"
+        },
+        {
+            "name": "Kah Okeo Shrine",
+            "region": "Tabantha",
+            "quest": null,
+            "dlc": null,
+            "trial": "Wind Guide"
+        },
+        {
+            "name": "Kah Yah Shrine",
+            "region": "Faron",
+            "quest": "A Fragmented Monument",
+            "dlc": null,
+            "trial": "Quick Thinking"
+        },
+        {
+            "name": "Kam Urog Shrine",
+            "region": "Hateno",
+            "quest": "The Cursed Statue",
+            "dlc": null,
+            "trial": "Trial of Passage"
+        },
+        {
+            "name": "Kamia Omuna Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Katah Chuki Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Katosa Aug Shrine",
+            "region": "Akkala",
+            "quest": null,
+            "dlc": null,
+            "trial": "Katosa Aug Apparatus"
+        },
+        {
+            "name": "Kay Noh Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Power of Electricity"
+        },
+        {
+            "name": "Kaya Wan Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Shields from Water"
+        },
+        {
+            "name": "Kayra Mah Shrine",
+            "region": "Eldin",
+            "quest": "A Brother's Roast",
+            "dlc": null,
+            "trial": "Greedy Hill"
+        },
+        {
+            "name": "Ke'nai Shakah Shrine",
+            "region": "Akkala",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Kee Dafunia Shrine",
+            "region": "Akkala",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Keeha Yoog Shrine",
+            "region": "Gerudo",
+            "quest": "Cliffside Etchings",
+            "dlc": null,
+            "trial": "Keeha Yoog's Blessing"
+        },
+        {
+            "name": "Keh Namut Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": null,
+            "trial": "Cryonis Trial"
+        },
+        {
+            "name": "Keive Tala Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Big or Small"
+        },
+        {
+            "name": "Kema Kosassa Shrine",
+            "region": "Gerudo",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Kema Zoos Shrine",
+            "region": "Wasteland",
+            "quest": "The Silent Swordswomen",
+            "dlc": null,
+            "trial": "A Delayed Puzzle"
+        },
+        {
+            "name": "Keo Ruug Shrine",
+            "region": "Woodland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Fateful Stars"
+        },
+        {
+            "name": "Ketoh Wawai Shrine",
+            "region": "Woodland",
+            "quest": "Shrouded Shrine",
+            "dlc": null,
+            "trial": "Ketoh Wawai's Blessing"
+        },
+        {
+            "name": "Kiah Toza Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Master the Orb"
+        },
+        {
+            "name": "Kihiro Moh Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Korgu Chideh Shrine",
+            "region": "Faron",
+            "quest": "Stranded on Eventide",
+            "dlc": null,
+            "trial": "Korgu Chideh's Blessing"
+        },
+        {
+            "name": "Korsh O'hu Shrine",
+            "region": "Wasteland",
+            "quest": "The Seven Heroines",
+            "dlc": null,
+            "trial": "Korsh O'hu's Blessing"
+        },
+        {
+            "name": "Kuh Takkar Shrine",
+            "region": "Gerudo",
+            "quest": null,
+            "dlc": null,
+            "trial": "Melting Ice Hazard"
+        },
+        {
+            "name": "Kuhn Sidajj Shrine",
+            "region": "Woodland",
+            "quest": "Trial of Second Sight",
+            "dlc": null,
+            "trial": "Kuhn Sidajj's Blessing"
+        },
+        {
+            "name": "Lakna Rokee Shrine",
+            "region": "Dueling Peaks",
+            "quest": "The Stolen Heirloom",
+            "dlc": null,
+            "trial": "Lakna Rokee's Blessing"
+        },
+        {
+            "name": "Lanno Kooh Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Lanno Kooh's Blessing"
+        },
+        {
+            "name": "Maag Halan Shrine",
+            "region": "Woodland",
+            "quest": "The Test of Wood",
+            "dlc": null,
+            "trial": "Maag Halan's Blessing"
+        },
+        {
+            "name": "Maag No'rah Shrine",
+            "region": "Ridgeland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Maag No'rah's Blessing"
+        },
+        {
+            "name": "Mah Eliya Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Maka Rah Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Steady Thy Heart"
+        },
+        {
+            "name": "Mezza Lo Shrine",
+            "region": "Hateno",
+            "quest": "The Crowned Beast",
+            "dlc": null,
+            "trial": "Ancient Trifecta"
+        },
+        {
+            "name": "Mijah Rokee Shrine",
+            "region": "Ridgeland",
+            "quest": "Under a Red Moon",
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Mirro Shaz Shrine",
+            "region": "Woodland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Tempered Power"
+        },
+        {
+            "name": "Misae Suma Shrine",
+            "region": "Wasteland",
+            "quest": "The Perfect Drink",
+            "dlc": null,
+            "trial": "Misae Suma's Blessing"
+        },
+        {
+            "name": "Mo'a Keet Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "Metal Makes a Path"
+        },
+        {
+            "name": "Mogg Latan Shrine",
+            "region": "Ridgeland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Synced Swing"
+        },
+        {
+            "name": "Monya Toma Shrine",
+            "region": "Woodland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Drawing Parabolas"
+        },
+        {
+            "name": "Mozo Shenno Shrine",
+            "region": "Hebra",
+            "quest": "The Bird in the Mountains",
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Muwo Jeem Shrine",
+            "region": "Faron",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Myahm Agana Shrine",
+            "region": "Hateno",
+            "quest": null,
+            "dlc": null,
+            "trial": "Myahm Agana Apparatus"
+        },
+        {
+            "name": "Namika Ozz Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Ne'ez Yohma Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Pushing Power"
+        },
+        {
+            "name": "Noe Ragee Shrine",
+            "region": "Tabantha",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "The Four Winds"
+        },
+        {
+            "name": "Noya Neha Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Oman Au Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": null,
+            "trial": "Magnesis Trial"
+        },
+        {
+            "name": "Owa Daim Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": null,
+            "trial": "Stasis Trial"
+        },
+        {
+            "name": "Pumaag Nitae Shrine",
+            "region": "Lake",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Qaza Tokki Shrine",
+            "region": "Hebra",
+            "quest": "Trial on the Cliff",
+            "dlc": null,
+            "trial": "Qaza Tokki's Blessing"
+        },
+        {
+            "name": "Qua Raym Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Balanced Approach"
+        },
+        {
+            "name": "Qukah Nata Shrine",
+            "region": "Faron",
+            "quest": "A Song of Storms",
+            "dlc": null,
+            "trial": "Qukah Nata's Blessing"
+        },
+        {
+            "name": "Raqa Zunzo Shrine",
+            "region": "Wasteland",
+            "quest": "The Undefeated Champ",
+            "dlc": null,
+            "trial": "Raqa Zunzo's Blessing"
+        },
+        {
+            "name": "Ree Dahee Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "Timing is Critical"
+        },
+        {
+            "name": "Rin Oyaa Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Directing the Wind"
+        },
+        {
+            "name": "Rinu Honika Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Block the Blaze"
+        },
+        {
+            "name": "Ritaag Zumo Shrine",
+            "region": "Akkala",
+            "quest": "Into the Vortex",
+            "dlc": null,
+            "trial": "Ritaag Zumo's Blessing"
+        },
+        {
+            "name": "Rohta Chigah Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Stop to Start"
+        },
+        {
+            "name": "Rok Uwog Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Power of Reach"
+        },
+        {
+            "name": "Rona Kachta Shrine",
+            "region": "Woodland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Rona Kachta's Blessing"
+        },
+        {
+            "name": "Rota Ooh Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "Passing of the Gates"
+        },
+        {
+            "name": "Rucco Maag Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Five Flames"
+        },
+        {
+            "name": "Ruvo Korbah Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "A Major Test of Strength+"
+        },
+        {
+            "name": "Saas Ko'sah Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Sah Dahaj Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "Power of Fire"
+        },
+        {
+            "name": "Sasa Kai Shrine",
+            "region": "Gerudo",
+            "quest": "Sign of the Shadow",
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Sato Koda Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Sha Gehma Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Shift and Lock"
+        },
+        {
+            "name": "Sha Warvo Shrine",
+            "region": "Tabantha",
+            "quest": null,
+            "dlc": null,
+            "trial": "Path of Hidden Winds"
+        },
+        {
+            "name": "Shada Naw Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "Red Giveaway"
+        },
+        {
+            "name": "Shae Katha Shrine",
+            "region": "Lake",
+            "quest": "The Serpent's Jaws",
+            "dlc": null,
+            "trial": "Shae Katha's Blessing"
+        },
+        {
+            "name": "Shae Loya Shrine",
+            "region": "Ridgeland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Aim for the Moment"
+        },
+        {
+            "name": "Shae Mo'sah Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "Swinging Flames"
+        },
+        {
+            "name": "Shai Utoh Shrine",
+            "region": "Faron",
+            "quest": null,
+            "dlc": null,
+            "trial": "Halt the Tilt"
+        },
+        {
+            "name": "Shai Yota Shrine",
+            "region": "Lanayru",
+            "quest": "Master of the Wind",
+            "dlc": null,
+            "trial": "Shai Yota's Blessing"
+        },
+        {
+            "name": "Sharo Lun Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "???"
+        },
+        {
+            "name": "Shee Vaneer Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "Twin Memories"
+        },
+        {
+            "name": "Shee Venath Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "Twin Memories"
+        },
+        {
+            "name": "Sheem Dagoze Shrine",
+            "region": "Ridgeland",
+            "quest": "The Two Rings",
+            "dlc": null,
+            "trial": "Moving in Parallel"
+        },
+        {
+            "name": "Sheh Rata Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "Speed of Light"
+        },
+        {
+            "name": "Shira Gomar Shrine",
+            "region": "Ridgeland",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Aim for Stillness"
+        },
+        {
+            "name": "Sho Dantu Shrine",
+            "region": "Gerudo",
+            "quest": null,
+            "dlc": null,
+            "trial": "Two Bombs"
+        },
+        {
+            "name": "Shoda Sah Shrine",
+            "region": "Faron",
+            "quest": null,
+            "dlc": null,
+            "trial": "Impeccable Timing"
+        },
+        {
+            "name": "Shoqa Tatone Shrine",
+            "region": "Lake",
+            "quest": "Guardian Slideshow",
+            "dlc": null,
+            "trial": "A Modest Test of Strength"
+        },
+        {
+            "name": "Shora Hah Shrine",
+            "region": "Eldin",
+            "quest": null,
+            "dlc": null,
+            "trial": "Blue Flame"
+        },
+        {
+            "name": "Soh Kofi Shrine",
+            "region": "Lanayru",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Minor Test of Strength"
+        },
+        {
+            "name": "Suma Sahma Shrine",
+            "region": "Wasteland",
+            "quest": "Secret of the Snowy Peaks",
+            "dlc": null,
+            "trial": "Suma Sahma's Blessing"
+        },
+        {
+            "name": "Ta'loh Naeg Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "Ta'loh Naeg's Teaching"
+        },
+        {
+            "name": "Tah Muhl Shrine",
+            "region": "Eldin",
+            "quest": "A Landscape of a Stable",
+            "dlc": null,
+            "trial": "Passing the Flame"
+        },
+        {
+            "name": "Tahno O'ah Shrine",
+            "region": "Hateno",
+            "quest": "Secret of the Cedars",
+            "dlc": null,
+            "trial": "Tahno O'ah's Blessing"
+        },
+        {
+            "name": "Takama Shiri Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Dual Purpose"
+        },
+        {
+            "name": "Tawa Jinn Shrine",
+            "region": "Faron",
+            "quest": "The Three Giant Brothers",
+            "dlc": null,
+            "trial": "Tawa Jinn's Blessing"
+        },
+        {
+            "name": "Tena Ko'sah Shrine",
+            "region": "Tabantha",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Tho Kayu Shrine",
+            "region": "Wasteland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Tho Kayu's Blessing"
+        },
+        {
+            "name": "To Quomo Shrine",
+            "region": "Hebra",
+            "quest": null,
+            "dlc": null,
+            "trial": "To Quomo's Blessing"
+        },
+        {
+            "name": "Toh Yahsa Shrine",
+            "region": "Ridgeland",
+            "quest": "Trial of Thunder",
+            "dlc": null,
+            "trial": "Buried Secrets"
+        },
+        {
+            "name": "Toto Sah Shrine",
+            "region": "Dueling Peaks",
+            "quest": null,
+            "dlc": null,
+            "trial": "Toto Sah Apparatus"
+        },
+        {
+            "name": "Tu Ka'loh Shrine",
+            "region": "Akkala",
+            "quest": "Trial of the Labyrinth",
+            "dlc": null,
+            "trial": "Tu Ka'loh's Blessing"
+        },
+        {
+            "name": "Tutsuwa Nima Shrine",
+            "region": "Akkala",
+            "quest": "The Spring of Power",
+            "dlc": null,
+            "trial": "A Major Test of Strength"
+        },
+        {
+            "name": "Voo Lota Shrine",
+            "region": "Tabantha",
+            "quest": "Recital at Warbler's Nest",
+            "dlc": null,
+            "trial": "The Winding Route"
+        },
+        {
+            "name": "Wahgo Katta Shrine",
+            "region": "Central",
+            "quest": null,
+            "dlc": null,
+            "trial": "Metal Connections"
+        },
+        {
+            "name": "Ya Naga Shrine",
+            "region": "Lake",
+            "quest": null,
+            "dlc": null,
+            "trial": "Shatter the Heavens"
+        },
+        {
+            "name": "Yah Rin Shrine",
+            "region": "Faron",
+            "quest": null,
+            "dlc": null,
+            "trial": "A Weighty Decision"
+        },
+        {
+            "name": "Yowaka Ita Shrine",
+            "region": "Great Plateau",
+            "quest": null,
+            "dlc": "The Champions' Ballad",
+            "trial": "Collected Soul"
+        },
+        {
+            "name": "Zalta Wa Shrine",
+            "region": "Ridgeland",
+            "quest": null,
+            "dlc": null,
+            "trial": "Two Orbs to Guide You"
+        },
+        {
+            "name": "Ze Kasho Shrine",
+            "region": "Akkala",
+            "quest": null,
+            "dlc": null,
+            "trial": "Ze Kasho Apparatus"
+        },
+        {
+            "name": "Zuna Kai Shrine",
+            "region": "Akkala",
+            "quest": "The Skull's Eye",
+            "dlc": null,
+            "trial": "Zuna Kai's Blessing"
+        }
+    ],
+
+    "main_quests": [
+        "Follow the Sheikah Slate",
+        "The Isolated Plateau",
+        "Seek Out Impa",
+        "Locked Mementos",
+        "Captured Memories",
+        "Find the Fairy Fountain",
+        "Free the Divine Beasts",
+        "Reach Zora's Domain",
+        "Forbidden City Entry",
+        "Divine Beast Vah Medoh",
+        "Divine Beast Vah Rudania",
+        "Divine Beast Vah Ruta",
+        "Divine Beast Vah Naboris",
+        "The Hero's Sword",
+        "Destroy Ganon"
+    ],
+
+    "dlc_quests": [
+        "EX Champion Daruk's Song",
+        "EX Champion Mipha's Song",
+        "EX Champion Revali's Song",
+        "EX Champion Urbosa's Song",
+        "EX Champions' Ballad"
+    ],
+
+    "memories": [
+        "Subdued Ceremony",
+        "Revali's Flap",
+        "Resolve and Grief",
+        "Daruk's Mettle",
+        "Zelda's Resentment",
+        "Urbosa's Hand",
+        "Blades of the Yiga",
+        "A Premonition",
+        "Silent Princess",
+        "Mipha's Touch",
+        "Shelter from the Storm",
+        "Father and Daughter",
+        "Slumbering Power",
+        "To Mount Lanayru",
+        "Return of Calamity Ganon",
+        "Despair",
+        "Zelda's Awakening",
+        "The Master Sword"
+    ],
+
+    "side_quests": [
+        {
+            "region": "Dueling Peaks",
+            "name": "Misko, the Great Bandit"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "The Priceless Maracas"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Wild Horses"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Flown the Coop"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Arrows of Burning Heat"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Koko's Kitchen"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Cooking with Koko"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Koko Cuisine"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Koko's Specialty"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "Playtime with Cottla"
+        },
+        {
+            "region": "Dueling Peaks",
+            "name": "By Firefly's Light"
+        },
+        {
+            "region": "Hateno",
+            "name": "The Statue's Bargain"
+        },
+        {
+            "region": "Hateno",
+            "name": "The Weapon Connoisseur"
+        },
+        {
+            "region": "Hateno",
+            "name": "A Gift for My Beloved"
+        },
+        {
+            "region": "Hateno",
+            "name": "The Sheep Rustlers"
+        },
+        {
+            "region": "Hateno",
+            "name": "Robbie's Research"
+        },
+        {
+            "region": "Hateno",
+            "name": "Slated for Upgrades"
+        },
+        {
+            "region": "Hateno",
+            "name": "Sunshroom Sensing"
+        },
+        {
+            "region": "Hateno",
+            "name": "The Hero's Cache"
+        },
+        {
+            "region": "Hateno",
+            "name": "Hylian Homeowner"
+        },
+        {
+            "region": "Hateno",
+            "name": "From the Ground Up"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Special Delivery"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Diving Is Beauty!"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Lynel Safari"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Frog Catching"
+        },
+        {
+            "region": "Lanayru",
+            "name": "The Giant of Ralis Pond"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Luminous Stone Gathering"
+        },
+        {
+            "region": "Lanayru",
+            "name": "A Wife Washed Away"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Riverbed Reward"
+        },
+        {
+            "region": "Lanayru",
+            "name": "Zora Stone Monuments"
+        },
+        {
+            "region": "Faron",
+            "name": "What's for Dinner?"
+        },
+        {
+            "region": "Faron",
+            "name": "Sunken Treasure"
+        },
+        {
+            "region": "Faron",
+            "name": "Take Back the Sea"
+        },
+        {
+            "region": "Faron",
+            "name": "A Gift of Nightshade"
+        },
+        {
+            "region": "Faron",
+            "name": "Thunder Magnet"
+        },
+        {
+            "region": "Lake",
+            "name": "Hunt for the Giant Horse"
+        },
+        {
+            "region": "Lake",
+            "name": "The Horseback Hoodlums"
+        },
+        {
+            "region": "Wasteland",
+            "name": "Good-Sized Horse"
+        },
+        {
+            "region": "Wasteland",
+            "name": "Missing in Action"
+        },
+        {
+            "region": "Wasteland",
+            "name": "Rushroom Rush!"
+        },
+        {
+            "region": "Wasteland",
+            "name": "An Ice Guy"
+        },
+        {
+            "region": "Wasteland",
+            "name": "Tools of the Trade"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Secret Club's Secret"
+        },
+        {
+            "region": "Wasteland",
+            "name": "Medicinal Molduga"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Eighth Heroine"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Forgotten Sword"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Thunder Helm"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Mystery Polluter"
+        },
+        {
+            "region": "Wasteland",
+            "name": "The Search for Barta"
+        },
+        {
+            "region": "Tabantha",
+            "name": "Curry for What Ails You"
+        },
+        {
+            "region": "Tabantha",
+            "name": "The Apple of My Eye"
+        },
+        {
+            "region": "Tabantha",
+            "name": "The Spark of Romance"
+        },
+        {
+            "region": "Tabantha",
+            "name": "Face the Frost Talus"
+        },
+        {
+            "region": "Tabantha",
+            "name": "Find Kheel"
+        },
+        {
+            "region": "Hebra",
+            "name": "Stalhorse: Pictured!"
+        },
+        {
+            "region": "Woodland",
+            "name": "Balloon Flight"
+        },
+        {
+            "region": "Woodland",
+            "name": "A Freezing Rod"
+        },
+        {
+            "region": "Woodland",
+            "name": "The Korok Trials"
+        },
+        {
+            "region": "Woodland",
+            "name": "Legendary Rabbit Trial"
+        },
+        {
+            "region": "Woodland",
+            "name": "Leviathan Bones"
+        },
+        {
+            "region": "Woodland",
+            "name": "A Gift from the Monks"
+        },
+        {
+            "region": "Woodland",
+            "name": "Riddles of Hyrule"
+        },
+        {
+            "region": "Ridgeland",
+            "name": "A Gift for the Great Fairy"
+        },
+        {
+            "region": "Central",
+            "name": "The Royal Guard's Gear"
+        },
+        {
+            "region": "Central",
+            "name": "A Rare Find"
+        },
+        {
+            "region": "Central",
+            "name": "My Hero"
+        },
+        {
+            "region": "Central",
+            "name": "A Royal Recipe"
+        },
+        {
+            "region": "Central",
+            "name": "The Royal White Stallion"
+        },
+        {
+            "region": "Eldin",
+            "name": "Fireproof Lizard Roundup"
+        },
+        {
+            "region": "Eldin",
+            "name": "The Road to Respect"
+        },
+        {
+            "region": "Eldin",
+            "name": "Death Mountain's Secret"
+        },
+        {
+            "region": "Eldin",
+            "name": "The Jewel Trade"
+        },
+        {
+            "region": "Akkala",
+            "name": "A Parent's Love"
+        },
+        {
+            "region": "Akkala",
+            "name": "Hobbies of the Rich"
+        },
+        {
+            "region": "Akkala",
+            "name": "A Shady Customer"
+        },
+        {
+            "region": "Akkala",
+            "name": "Little Sister's Big Request"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Trial of the Sword"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Strange Mask Rumors"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Teleportation Rumors!"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Ancient Mask"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Fairy Clothes"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Twilight Relic"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Phantasma"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "[Xenoblade Chronicles 2]"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Ancient Horse Rumors"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Royal Guard Rumors"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Dark Armor"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Garb of Winds"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Merchant Hood"
+        },
+        {
+            "region": null,
+            "dlc": true,
+            "name": "EX Treasure: Usurper King"
+        }
+    ],
+
+    "other": [
+        {
+            "name": "Revive Great Fairy Cotera",
+            "region": "Hateno"
+        },
+        {
+            "name": "Revive Great Fairy Kaysa",
+            "region": "Tabantha"
+        },
+        {
+            "name": "Revive Great Fairy Mija",
+            "region": "Akkala"
+        },
+        {
+            "name": "Revive Great Fairy Tera",
+            "region": "Wasteland"
+        }
+    ]
+
+}
