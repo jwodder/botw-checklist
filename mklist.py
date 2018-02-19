@@ -26,6 +26,34 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \usepackage{enumitem}
 \usepackage[margin=1in]{geometry}
 \usepackage{multicol}
+\usepackage{tikz}
+\makeatletter
+\newlength{\chest@width}
+\setlength{\chest@width}{1em}
+\newlength{\chest@height}
+\setlength{\chest@height}{0.618em}
+\newlength{\chest@roundness}
+\setlength{\chest@roundness}{0.2em}
+\newlength{\chest@latchsize}
+\setlength{\chest@latchsize}{0.2em}
+\newlength{\chest@latchHeight}
+\setlength{\chest@latchHeight}{\dimexpr\chest@height/2\relax}
+\newcommand{\chest}{
+    \tikz{
+        \draw (0,0)
+            [rounded corners=\chest@roundness]
+                -- (0, \chest@height)
+                -- (\chest@width, \chest@height)
+            [sharp corners]
+                -- (\chest@width, 0)
+                -- (0,0);
+        \node (latch) at (\dimexpr\chest@width/2, \chest@latchHeight)
+            [circle,minimum width=\chest@latchsize,inner sep=0,draw] {};
+        \draw (           0, \chest@latchHeight) -- (latch.west);
+        \draw (\chest@width, \chest@latchHeight) -- (latch.east);
+    }
+}
+\makeatother
 \begin{document}
 ''')
 
@@ -51,8 +79,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\begin{multicols}{2}')
 
         print(r'\subsection*{Shrines}')
-        ### TODO: Include checkboxes for getting all chests
-        print(r'\begin{enumerate}[label=$\square$]')
+        print(r'\begin{enumerate}[label=$\square$\thinspace\protect\chest]')
         for shrine in shrines_by_region[region["name"]]:
             if shrine["dlc"] is None:
                 print(r'\item {name} \emph{{({trial})}}'.format(**shrine))
