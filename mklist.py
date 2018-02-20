@@ -31,11 +31,11 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \newlength{\chest@width}
 \setlength{\chest@width}{1em}
 \newlength{\chest@height}
-\setlength{\chest@height}{0.618em}
+\setlength{\chest@height}{\dimexpr\chest@width*618/1000\relax}
 \newlength{\chest@roundness}
-\setlength{\chest@roundness}{0.2em}
+\setlength{\chest@roundness}{\dimexpr\chest@width/5\relax}
 \newlength{\chest@latchsize}
-\setlength{\chest@latchsize}{0.2em}
+\setlength{\chest@latchsize}{\dimexpr\chest@width/5\relax}
 \newlength{\chest@latchHeight}
 \setlength{\chest@latchHeight}{\dimexpr\chest@height/2\relax}
 \newcommand{\chest}{
