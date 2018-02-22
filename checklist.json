@@ -1473,6 +1473,3161 @@
             "name": "Revive Great Fairy Tera",
             "region": "Wasteland"
         }
+    ],
+
+    "compendium": [
+        {
+            "section": "Creatures",
+            "number": 1,
+            "dlc_number": 1,
+            "master_number": 1,
+            "dlc_master_number": 1,
+            "name": "Horse"
+        },
+        {
+            "section": "Creatures",
+            "number": 2,
+            "dlc_number": 2,
+            "master_number": 2,
+            "dlc_master_number": 2,
+            "name": "Giant Horse"
+        },
+        {
+            "section": "Creatures",
+            "number": 3,
+            "dlc_number": 3,
+            "master_number": 3,
+            "dlc_master_number": 3,
+            "name": "White Horse"
+        },
+        {
+            "section": "Creatures",
+            "number": 4,
+            "dlc_number": 4,
+            "master_number": 4,
+            "dlc_master_number": 4,
+            "name": "Lord of the Mountain"
+        },
+        {
+            "section": "Creatures",
+            "number": 5,
+            "dlc_number": 5,
+            "master_number": 5,
+            "dlc_master_number": 5,
+            "name": "Stalhorse"
+        },
+        {
+            "section": "Creatures",
+            "number": 6,
+            "dlc_number": 6,
+            "master_number": 6,
+            "dlc_master_number": 6,
+            "name": "Donkey"
+        },
+        {
+            "section": "Creatures",
+            "number": 7,
+            "dlc_number": 7,
+            "master_number": 7,
+            "dlc_master_number": 7,
+            "name": "Sand Seal"
+        },
+        {
+            "section": "Creatures",
+            "number": 8,
+            "dlc_number": 8,
+            "master_number": 8,
+            "dlc_master_number": 8,
+            "name": "Patricia"
+        },
+        {
+            "section": "Creatures",
+            "number": 9,
+            "dlc_number": 9,
+            "master_number": 9,
+            "dlc_master_number": 9,
+            "name": "Bushy-Tailed Squirrel"
+        },
+        {
+            "section": "Creatures",
+            "number": 10,
+            "dlc_number": 10,
+            "master_number": 10,
+            "dlc_master_number": 10,
+            "name": "Woodland Boar"
+        },
+        {
+            "section": "Creatures",
+            "number": 11,
+            "dlc_number": 11,
+            "master_number": 11,
+            "dlc_master_number": 11,
+            "name": "Red-Tusked Boar"
+        },
+        {
+            "section": "Creatures",
+            "number": 12,
+            "dlc_number": 12,
+            "master_number": 12,
+            "dlc_master_number": 12,
+            "name": "Mountain Goat"
+        },
+        {
+            "section": "Creatures",
+            "number": 13,
+            "dlc_number": 13,
+            "master_number": 13,
+            "dlc_master_number": 13,
+            "name": "White Goat"
+        },
+        {
+            "section": "Creatures",
+            "number": 14,
+            "dlc_number": 14,
+            "master_number": 14,
+            "dlc_master_number": 14,
+            "name": "Mountain Buck"
+        },
+        {
+            "section": "Creatures",
+            "number": 15,
+            "dlc_number": 15,
+            "master_number": 15,
+            "dlc_master_number": 15,
+            "name": "Mountain Doe"
+        },
+        {
+            "section": "Creatures",
+            "number": 16,
+            "dlc_number": 16,
+            "master_number": 16,
+            "dlc_master_number": 16,
+            "name": "Water Buffalo"
+        },
+        {
+            "section": "Creatures",
+            "number": 17,
+            "dlc_number": 17,
+            "master_number": 17,
+            "dlc_master_number": 17,
+            "name": "Hateno Cow"
+        },
+        {
+            "section": "Creatures",
+            "number": 18,
+            "dlc_number": 18,
+            "master_number": 18,
+            "dlc_master_number": 18,
+            "name": "Highland Sheep"
+        },
+        {
+            "section": "Creatures",
+            "number": 19,
+            "dlc_number": 19,
+            "master_number": 19,
+            "dlc_master_number": 19,
+            "name": "Grassland Fox"
+        },
+        {
+            "section": "Creatures",
+            "number": 20,
+            "dlc_number": 20,
+            "master_number": 20,
+            "dlc_master_number": 20,
+            "name": "Snowcoat Fox"
+        },
+        {
+            "section": "Creatures",
+            "number": 21,
+            "dlc_number": 21,
+            "master_number": 21,
+            "dlc_master_number": 21,
+            "name": "Maraudo Wolf"
+        },
+        {
+            "section": "Creatures",
+            "number": 22,
+            "dlc_number": 22,
+            "master_number": 22,
+            "dlc_master_number": 22,
+            "name": "Wasteland Coyote"
+        },
+        {
+            "section": "Creatures",
+            "number": 23,
+            "dlc_number": 23,
+            "master_number": 23,
+            "dlc_master_number": 23,
+            "name": "Cold-Footed Wolf"
+        },
+        {
+            "section": "Creatures",
+            "number": 24,
+            "dlc_number": 24,
+            "master_number": 24,
+            "dlc_master_number": 24,
+            "name": "Tabantha Moose"
+        },
+        {
+            "section": "Creatures",
+            "number": 25,
+            "dlc_number": 25,
+            "master_number": 25,
+            "dlc_master_number": 25,
+            "name": "Great-Horned Rhinoceros"
+        },
+        {
+            "section": "Creatures",
+            "number": 26,
+            "dlc_number": 26,
+            "master_number": 26,
+            "dlc_master_number": 26,
+            "name": "Honeyvore Bear"
+        },
+        {
+            "section": "Creatures",
+            "number": 27,
+            "dlc_number": 27,
+            "master_number": 27,
+            "dlc_master_number": 27,
+            "name": "Grizzlemaw Bear"
+        },
+        {
+            "section": "Creatures",
+            "number": 28,
+            "dlc_number": 28,
+            "master_number": 28,
+            "dlc_master_number": 28,
+            "name": "Hylian Retriever"
+        },
+        {
+            "section": "Creatures",
+            "number": 29,
+            "dlc_number": 29,
+            "master_number": 29,
+            "dlc_master_number": 29,
+            "name": "Blupee"
+        },
+        {
+            "section": "Creatures",
+            "number": 30,
+            "dlc_number": 30,
+            "master_number": 30,
+            "dlc_master_number": 30,
+            "name": "Common Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 31,
+            "dlc_number": 31,
+            "master_number": 31,
+            "dlc_master_number": 31,
+            "name": "Red Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 32,
+            "dlc_number": 32,
+            "master_number": 32,
+            "dlc_master_number": 32,
+            "name": "Blue Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 33,
+            "dlc_number": 33,
+            "master_number": 33,
+            "dlc_master_number": 33,
+            "name": "Rainbow Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 34,
+            "dlc_number": 34,
+            "master_number": 34,
+            "dlc_master_number": 34,
+            "name": "Sand Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 35,
+            "dlc_number": 35,
+            "master_number": 35,
+            "dlc_master_number": 35,
+            "name": "Golden Sparrow"
+        },
+        {
+            "section": "Creatures",
+            "number": 36,
+            "dlc_number": 36,
+            "master_number": 36,
+            "dlc_master_number": 36,
+            "name": "Wood Pigeon"
+        },
+        {
+            "section": "Creatures",
+            "number": 37,
+            "dlc_number": 37,
+            "master_number": 37,
+            "dlc_master_number": 37,
+            "name": "Rainbow Pigeon"
+        },
+        {
+            "section": "Creatures",
+            "number": 38,
+            "dlc_number": 38,
+            "master_number": 38,
+            "dlc_master_number": 38,
+            "name": "Hotfeather Pigeon"
+        },
+        {
+            "section": "Creatures",
+            "number": 39,
+            "dlc_number": 39,
+            "master_number": 39,
+            "dlc_master_number": 39,
+            "name": "White Pigeon"
+        },
+        {
+            "section": "Creatures",
+            "number": 40,
+            "dlc_number": 40,
+            "master_number": 40,
+            "dlc_master_number": 40,
+            "name": "Mountain Crow"
+        },
+        {
+            "section": "Creatures",
+            "number": 41,
+            "dlc_number": 41,
+            "master_number": 41,
+            "dlc_master_number": 41,
+            "name": "Bright-Chested Duck"
+        },
+        {
+            "section": "Creatures",
+            "number": 42,
+            "dlc_number": 42,
+            "master_number": 42,
+            "dlc_master_number": 42,
+            "name": "Blue-Winged Heron"
+        },
+        {
+            "section": "Creatures",
+            "number": 43,
+            "dlc_number": 43,
+            "master_number": 43,
+            "dlc_master_number": 43,
+            "name": "Pink Heron"
+        },
+        {
+            "section": "Creatures",
+            "number": 44,
+            "dlc_number": 44,
+            "master_number": 44,
+            "dlc_master_number": 44,
+            "name": "Islander Hawk"
+        },
+        {
+            "section": "Creatures",
+            "number": 45,
+            "dlc_number": 45,
+            "master_number": 45,
+            "dlc_master_number": 45,
+            "name": "Seagull"
+        },
+        {
+            "section": "Creatures",
+            "number": 46,
+            "dlc_number": 46,
+            "master_number": 46,
+            "dlc_master_number": 46,
+            "name": "Eldin Ostrich"
+        },
+        {
+            "section": "Creatures",
+            "number": 47,
+            "dlc_number": 47,
+            "master_number": 47,
+            "dlc_master_number": 47,
+            "name": "Cucco"
+        },
+        {
+            "section": "Creatures",
+            "number": 48,
+            "dlc_number": 48,
+            "master_number": 48,
+            "dlc_master_number": 48,
+            "name": "Hyrule Bass"
+        },
+        {
+            "section": "Creatures",
+            "number": 49,
+            "dlc_number": 49,
+            "master_number": 49,
+            "dlc_master_number": 49,
+            "name": "Hearty Bass"
+        },
+        {
+            "section": "Creatures",
+            "number": 50,
+            "dlc_number": 50,
+            "master_number": 50,
+            "dlc_master_number": 50,
+            "name": "Staminoka Bass"
+        },
+        {
+            "section": "Creatures",
+            "number": 51,
+            "dlc_number": 51,
+            "master_number": 51,
+            "dlc_master_number": 51,
+            "name": "Hearty Salmon"
+        },
+        {
+            "section": "Creatures",
+            "number": 52,
+            "dlc_number": 52,
+            "master_number": 52,
+            "dlc_master_number": 52,
+            "name": "Chillfin Trout"
+        },
+        {
+            "section": "Creatures",
+            "number": 53,
+            "dlc_number": 53,
+            "master_number": 53,
+            "dlc_master_number": 53,
+            "name": "Sizzlefin Trout"
+        },
+        {
+            "section": "Creatures",
+            "number": 54,
+            "dlc_number": 54,
+            "master_number": 54,
+            "dlc_master_number": 54,
+            "name": "Voltfin Trout"
+        },
+        {
+            "section": "Creatures",
+            "number": 55,
+            "dlc_number": 55,
+            "master_number": 55,
+            "dlc_master_number": 55,
+            "name": "Stealthfin Trout"
+        },
+        {
+            "section": "Creatures",
+            "number": 56,
+            "dlc_number": 56,
+            "master_number": 56,
+            "dlc_master_number": 56,
+            "name": "Mighty Carp"
+        },
+        {
+            "section": "Creatures",
+            "number": 57,
+            "dlc_number": 57,
+            "master_number": 57,
+            "dlc_master_number": 57,
+            "name": "Armored Carp"
+        },
+        {
+            "section": "Creatures",
+            "number": 58,
+            "dlc_number": 58,
+            "master_number": 58,
+            "dlc_master_number": 58,
+            "name": "Sanke Carp"
+        },
+        {
+            "section": "Creatures",
+            "number": 59,
+            "dlc_number": 59,
+            "master_number": 59,
+            "dlc_master_number": 59,
+            "name": "Mighty Porgy"
+        },
+        {
+            "section": "Creatures",
+            "number": 60,
+            "dlc_number": 60,
+            "master_number": 60,
+            "dlc_master_number": 60,
+            "name": "Armored Porgy"
+        },
+        {
+            "section": "Creatures",
+            "number": 61,
+            "dlc_number": 61,
+            "master_number": 61,
+            "dlc_master_number": 61,
+            "name": "Sneaky River Snail"
+        },
+        {
+            "section": "Creatures",
+            "number": 62,
+            "dlc_number": 62,
+            "master_number": 62,
+            "dlc_master_number": 62,
+            "name": "Hearty Blueshell Snail"
+        },
+        {
+            "section": "Creatures",
+            "number": 63,
+            "dlc_number": 63,
+            "master_number": 63,
+            "dlc_master_number": 63,
+            "name": "Razorclaw Crab"
+        },
+        {
+            "section": "Creatures",
+            "number": 64,
+            "dlc_number": 64,
+            "master_number": 64,
+            "dlc_master_number": 64,
+            "name": "Ironshell Crab"
+        },
+        {
+            "section": "Creatures",
+            "number": 65,
+            "dlc_number": 65,
+            "master_number": 65,
+            "dlc_master_number": 65,
+            "name": "Bright-Eyed Crab"
+        },
+        {
+            "section": "Creatures",
+            "number": 66,
+            "dlc_number": 66,
+            "master_number": 66,
+            "dlc_master_number": 66,
+            "name": "Fairy"
+        },
+        {
+            "section": "Creatures",
+            "number": 67,
+            "dlc_number": 67,
+            "master_number": 67,
+            "dlc_master_number": 67,
+            "name": "Winterwing Butterfly"
+        },
+        {
+            "section": "Creatures",
+            "number": 68,
+            "dlc_number": 68,
+            "master_number": 68,
+            "dlc_master_number": 68,
+            "name": "Summerwing Butterfly"
+        },
+        {
+            "section": "Creatures",
+            "number": 69,
+            "dlc_number": 69,
+            "master_number": 69,
+            "dlc_master_number": 69,
+            "name": "Thunderwing Butterfly"
+        },
+        {
+            "section": "Creatures",
+            "number": 70,
+            "dlc_number": 70,
+            "master_number": 70,
+            "dlc_master_number": 70,
+            "name": "Smotherwing Butterfly"
+        },
+        {
+            "section": "Creatures",
+            "number": 71,
+            "dlc_number": 71,
+            "master_number": 71,
+            "dlc_master_number": 71,
+            "name": "Cold Darner"
+        },
+        {
+            "section": "Creatures",
+            "number": 72,
+            "dlc_number": 72,
+            "master_number": 72,
+            "dlc_master_number": 72,
+            "name": "Warm Darner"
+        },
+        {
+            "section": "Creatures",
+            "number": 73,
+            "dlc_number": 73,
+            "master_number": 73,
+            "dlc_master_number": 73,
+            "name": "Electric Darner"
+        },
+        {
+            "section": "Creatures",
+            "number": 74,
+            "dlc_number": 74,
+            "master_number": 74,
+            "dlc_master_number": 74,
+            "name": "Restless Cricket"
+        },
+        {
+            "section": "Creatures",
+            "number": 75,
+            "dlc_number": 75,
+            "master_number": 75,
+            "dlc_master_number": 75,
+            "name": "Bladed Rhino Beetle"
+        },
+        {
+            "section": "Creatures",
+            "number": 76,
+            "dlc_number": 76,
+            "master_number": 76,
+            "dlc_master_number": 76,
+            "name": "Rugged Rhino Beetle"
+        },
+        {
+            "section": "Creatures",
+            "number": 77,
+            "dlc_number": 77,
+            "master_number": 77,
+            "dlc_master_number": 77,
+            "name": "Energetic Rhino Beetle"
+        },
+        {
+            "section": "Creatures",
+            "number": 78,
+            "dlc_number": 78,
+            "master_number": 78,
+            "dlc_master_number": 78,
+            "name": "Sunset Firefly"
+        },
+        {
+            "section": "Creatures",
+            "number": 79,
+            "dlc_number": 79,
+            "master_number": 79,
+            "dlc_master_number": 79,
+            "name": "Hot-Footed Frog"
+        },
+        {
+            "section": "Creatures",
+            "number": 80,
+            "dlc_number": 80,
+            "master_number": 80,
+            "dlc_master_number": 80,
+            "name": "Tireless Frog"
+        },
+        {
+            "section": "Creatures",
+            "number": 81,
+            "dlc_number": 81,
+            "master_number": 81,
+            "dlc_master_number": 81,
+            "name": "Hightail Lizard"
+        },
+        {
+            "section": "Creatures",
+            "number": 82,
+            "dlc_number": 82,
+            "master_number": 82,
+            "dlc_master_number": 82,
+            "name": "Hearty Lizard"
+        },
+        {
+            "section": "Creatures",
+            "number": 83,
+            "dlc_number": 83,
+            "master_number": 83,
+            "dlc_master_number": 83,
+            "name": "Fireproof Lizard"
+        },
+        {
+            "section": "Monsters",
+            "number": 84,
+            "dlc_number": 84,
+            "master_number": 84,
+            "dlc_master_number": 84,
+            "name": "Chuchu"
+        },
+        {
+            "section": "Monsters",
+            "number": 85,
+            "dlc_number": 85,
+            "master_number": 85,
+            "dlc_master_number": 85,
+            "name": "Fire Chuchu"
+        },
+        {
+            "section": "Monsters",
+            "number": 86,
+            "dlc_number": 86,
+            "master_number": 86,
+            "dlc_master_number": 86,
+            "name": "Ice Chuchu"
+        },
+        {
+            "section": "Monsters",
+            "number": 87,
+            "dlc_number": 87,
+            "master_number": 87,
+            "dlc_master_number": 87,
+            "name": "Electric Chuchu"
+        },
+        {
+            "section": "Monsters",
+            "number": 88,
+            "dlc_number": 88,
+            "master_number": 88,
+            "dlc_master_number": 88,
+            "name": "Keese"
+        },
+        {
+            "section": "Monsters",
+            "number": 89,
+            "dlc_number": 89,
+            "master_number": 89,
+            "dlc_master_number": 89,
+            "name": "Fire Keese"
+        },
+        {
+            "section": "Monsters",
+            "number": 90,
+            "dlc_number": 90,
+            "master_number": 90,
+            "dlc_master_number": 90,
+            "name": "Ice Keese"
+        },
+        {
+            "section": "Monsters",
+            "number": 91,
+            "dlc_number": 91,
+            "master_number": 91,
+            "dlc_master_number": 91,
+            "name": "Electric Keese"
+        },
+        {
+            "section": "Monsters",
+            "number": 92,
+            "dlc_number": 92,
+            "master_number": 92,
+            "dlc_master_number": 92,
+            "name": "Water Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": 93,
+            "dlc_number": 93,
+            "master_number": 93,
+            "dlc_master_number": 93,
+            "name": "Forest Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": 94,
+            "dlc_number": 94,
+            "master_number": 94,
+            "dlc_master_number": 94,
+            "name": "Rock Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": 95,
+            "dlc_number": 95,
+            "master_number": 95,
+            "dlc_master_number": 95,
+            "name": "Snow Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": 96,
+            "dlc_number": 96,
+            "master_number": 96,
+            "dlc_master_number": 96,
+            "name": "Treasure Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": null,
+            "master_number": 97,
+            "dlc_master_number": 97,
+            "name": "Sky Octorok"
+        },
+        {
+            "section": "Monsters",
+            "number": 97,
+            "dlc_number": 97,
+            "master_number": 98,
+            "dlc_master_number": 98,
+            "name": "Fire Wizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 98,
+            "dlc_number": 98,
+            "master_number": 99,
+            "dlc_master_number": 99,
+            "name": "Ice Wizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 99,
+            "dlc_number": 99,
+            "master_number": 100,
+            "dlc_master_number": 100,
+            "name": "Electric Wizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 100,
+            "dlc_number": 100,
+            "master_number": 101,
+            "dlc_master_number": 101,
+            "name": "Meteo Wizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 101,
+            "dlc_number": 101,
+            "master_number": 102,
+            "dlc_master_number": 102,
+            "name": "Blizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 102,
+            "dlc_number": 102,
+            "master_number": 103,
+            "dlc_master_number": 103,
+            "name": "Thunder Wizzrobe"
+        },
+        {
+            "section": "Monsters",
+            "number": 103,
+            "dlc_number": 103,
+            "master_number": 104,
+            "dlc_master_number": 104,
+            "name": "Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 104,
+            "dlc_number": 104,
+            "master_number": 105,
+            "dlc_master_number": 105,
+            "name": "Blue Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 105,
+            "dlc_number": 105,
+            "master_number": 106,
+            "dlc_master_number": 106,
+            "name": "Black Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 106,
+            "dlc_number": 106,
+            "master_number": 107,
+            "dlc_master_number": 107,
+            "name": "Stalkoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 107,
+            "dlc_number": 107,
+            "master_number": 108,
+            "dlc_master_number": 108,
+            "name": "Silver Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": null,
+            "master_number": 109,
+            "dlc_master_number": 109,
+            "name": "Golden Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 108,
+            "dlc_number": 108,
+            "master_number": 110,
+            "dlc_master_number": 110,
+            "name": "Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 109,
+            "dlc_number": 109,
+            "master_number": 111,
+            "dlc_master_number": 111,
+            "name": "Blue Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 110,
+            "dlc_number": 110,
+            "master_number": 112,
+            "dlc_master_number": 112,
+            "name": "Black Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 111,
+            "dlc_number": 111,
+            "master_number": 113,
+            "dlc_master_number": 113,
+            "name": "Stalmoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 112,
+            "dlc_number": 112,
+            "master_number": 114,
+            "dlc_master_number": 114,
+            "name": "Silver Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": null,
+            "master_number": 115,
+            "dlc_master_number": 115,
+            "name": "Golden Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 113,
+            "dlc_number": 113,
+            "master_number": 116,
+            "dlc_master_number": 116,
+            "name": "Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 114,
+            "dlc_number": 114,
+            "master_number": 117,
+            "dlc_master_number": 117,
+            "name": "Blue Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 115,
+            "dlc_number": 115,
+            "master_number": 118,
+            "dlc_master_number": 118,
+            "name": "Black Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 116,
+            "dlc_number": 116,
+            "master_number": 119,
+            "dlc_master_number": 119,
+            "name": "Stalizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 117,
+            "dlc_number": 117,
+            "master_number": 120,
+            "dlc_master_number": 120,
+            "name": "Fire-Breath Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 118,
+            "dlc_number": 118,
+            "master_number": 121,
+            "dlc_master_number": 121,
+            "name": "Ice-Breath Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 119,
+            "dlc_number": 119,
+            "master_number": 122,
+            "dlc_master_number": 122,
+            "name": "Electric Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 120,
+            "dlc_number": 120,
+            "master_number": 123,
+            "dlc_master_number": 123,
+            "name": "Silver Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": null,
+            "master_number": 124,
+            "dlc_master_number": 124,
+            "name": "Golden Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 121,
+            "dlc_number": 121,
+            "master_number": 125,
+            "dlc_master_number": 125,
+            "name": "Lynel"
+        },
+        {
+            "section": "Monsters",
+            "number": 122,
+            "dlc_number": 122,
+            "master_number": 126,
+            "dlc_master_number": 126,
+            "name": "Blue-Maned Lynel"
+        },
+        {
+            "section": "Monsters",
+            "number": 123,
+            "dlc_number": 123,
+            "master_number": 127,
+            "dlc_master_number": 127,
+            "name": "White-Maned Lynel"
+        },
+        {
+            "section": "Monsters",
+            "number": 124,
+            "dlc_number": 124,
+            "master_number": 128,
+            "dlc_master_number": 128,
+            "name": "Silver Lynel"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": null,
+            "master_number": 129,
+            "dlc_master_number": 129,
+            "name": "Golden Lynel"
+        },
+        {
+            "section": "Monsters",
+            "number": 125,
+            "dlc_number": 125,
+            "master_number": 130,
+            "dlc_master_number": 130,
+            "name": "Guardian Stalker"
+        },
+        {
+            "section": "Monsters",
+            "number": 126,
+            "dlc_number": 126,
+            "master_number": 131,
+            "dlc_master_number": 131,
+            "name": "Guardian Skywatcher"
+        },
+        {
+            "section": "Monsters",
+            "number": 127,
+            "dlc_number": 127,
+            "master_number": 132,
+            "dlc_master_number": 132,
+            "name": "Guardian Turret"
+        },
+        {
+            "section": "Monsters",
+            "number": 128,
+            "dlc_number": 128,
+            "master_number": 133,
+            "dlc_master_number": 133,
+            "name": "Sentry"
+        },
+        {
+            "section": "Monsters",
+            "number": 129,
+            "dlc_number": 129,
+            "master_number": 134,
+            "dlc_master_number": 134,
+            "name": "Decayed Guardian"
+        },
+        {
+            "section": "Monsters",
+            "number": 130,
+            "dlc_number": 130,
+            "master_number": 135,
+            "dlc_master_number": 135,
+            "name": "Guardian Scout I"
+        },
+        {
+            "section": "Monsters",
+            "number": 131,
+            "dlc_number": 131,
+            "master_number": 136,
+            "dlc_master_number": 136,
+            "name": "Guardian Scout II"
+        },
+        {
+            "section": "Monsters",
+            "number": 132,
+            "dlc_number": 133,
+            "master_number": 137,
+            "dlc_master_number": 137,
+            "name": "Guardian Scout III"
+        },
+        {
+            "section": "Monsters",
+            "number": 133,
+            "dlc_number": 133,
+            "master_number": 138,
+            "dlc_master_number": 138,
+            "name": "Guardian Scout IV"
+        },
+        {
+            "section": "Monsters",
+            "number": 134,
+            "dlc_number": 134,
+            "master_number": 139,
+            "dlc_master_number": 139,
+            "name": "Yiga Footsoldier"
+        },
+        {
+            "section": "Monsters",
+            "number": 135,
+            "dlc_number": 135,
+            "master_number": 140,
+            "dlc_master_number": 140,
+            "name": "Yiga Blademaster"
+        },
+        {
+            "section": "Monsters",
+            "number": 136,
+            "dlc_number": 136,
+            "master_number": 141,
+            "dlc_master_number": 141,
+            "name": "Master Kohga"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": 137,
+            "master_number": null,
+            "dlc_master_number": 142,
+            "name": "Monk Maz Koshia"
+        },
+        {
+            "section": "Monsters",
+            "number": 137,
+            "dlc_number": 138,
+            "master_number": 142,
+            "dlc_master_number": 143,
+            "name": "Stone Talus"
+        },
+        {
+            "section": "Monsters",
+            "number": 138,
+            "dlc_number": 139,
+            "master_number": 143,
+            "dlc_master_number": 144,
+            "name": "Stone Talus (Luminous)"
+        },
+        {
+            "section": "Monsters",
+            "number": 139,
+            "dlc_number": 140,
+            "master_number": 144,
+            "dlc_master_number": 145,
+            "name": "Stone Talus (Rare)"
+        },
+        {
+            "section": "Monsters",
+            "number": 140,
+            "dlc_number": 141,
+            "master_number": 145,
+            "dlc_master_number": 146,
+            "name": "Igneo Talus"
+        },
+        {
+            "section": "Monsters",
+            "number": 141,
+            "dlc_number": 142,
+            "master_number": 146,
+            "dlc_master_number": 147,
+            "name": "Frost Talus"
+        },
+        {
+            "section": "Monsters",
+            "number": 142,
+            "dlc_number": 143,
+            "master_number": 147,
+            "dlc_master_number": 148,
+            "name": "Stone Pebblit"
+        },
+        {
+            "section": "Monsters",
+            "number": 143,
+            "dlc_number": 144,
+            "master_number": 148,
+            "dlc_master_number": 149,
+            "name": "Igneo Pebblit"
+        },
+        {
+            "section": "Monsters",
+            "number": 144,
+            "dlc_number": 145,
+            "master_number": 149,
+            "dlc_master_number": 150,
+            "name": "Frost Pebblit"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": 146,
+            "master_number": null,
+            "dlc_master_number": 151,
+            "name": "Igneo Talus Titan"
+        },
+        {
+            "section": "Monsters",
+            "number": 145,
+            "dlc_number": 147,
+            "master_number": 150,
+            "dlc_master_number": 152,
+            "name": "Hinox"
+        },
+        {
+            "section": "Monsters",
+            "number": 146,
+            "dlc_number": 148,
+            "master_number": 151,
+            "dlc_master_number": 153,
+            "name": "Blue Hinox"
+        },
+        {
+            "section": "Monsters",
+            "number": 147,
+            "dlc_number": 149,
+            "master_number": 152,
+            "dlc_master_number": 154,
+            "name": "Black Hinox"
+        },
+        {
+            "section": "Monsters",
+            "number": 148,
+            "dlc_number": 150,
+            "master_number": 153,
+            "dlc_master_number": 155,
+            "name": "Stalnox"
+        },
+        {
+            "section": "Monsters",
+            "number": 149,
+            "dlc_number": 151,
+            "master_number": 154,
+            "dlc_master_number": 156,
+            "name": "Molduga"
+        },
+        {
+            "section": "Monsters",
+            "number": null,
+            "dlc_number": 152,
+            "master_number": null,
+            "dlc_master_number": 157,
+            "name": "Molduking"
+        },
+        {
+            "section": "Monsters",
+            "number": 150,
+            "dlc_number": 153,
+            "master_number": 155,
+            "dlc_master_number": 158,
+            "name": "Dinraal"
+        },
+        {
+            "section": "Monsters",
+            "number": 151,
+            "dlc_number": 154,
+            "master_number": 156,
+            "dlc_master_number": 159,
+            "name": "Naydra"
+        },
+        {
+            "section": "Monsters",
+            "number": 152,
+            "dlc_number": 155,
+            "master_number": 157,
+            "dlc_master_number": 160,
+            "name": "Farosh"
+        },
+        {
+            "section": "Monsters",
+            "number": 153,
+            "dlc_number": 156,
+            "master_number": 158,
+            "dlc_master_number": 161,
+            "name": "Cursed Bokoblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 154,
+            "dlc_number": 157,
+            "master_number": 159,
+            "dlc_master_number": 162,
+            "name": "Cursed Moblin"
+        },
+        {
+            "section": "Monsters",
+            "number": 155,
+            "dlc_number": 158,
+            "master_number": 160,
+            "dlc_master_number": 163,
+            "name": "Cursed Lizalfos"
+        },
+        {
+            "section": "Monsters",
+            "number": 156,
+            "dlc_number": 159,
+            "master_number": 161,
+            "dlc_master_number": 164,
+            "name": "Thunderblight Ganon"
+        },
+        {
+            "section": "Monsters",
+            "number": 157,
+            "dlc_number": 160,
+            "master_number": 162,
+            "dlc_master_number": 165,
+            "name": "Fireblight Ganon"
+        },
+        {
+            "section": "Monsters",
+            "number": 158,
+            "dlc_number": 161,
+            "master_number": 163,
+            "dlc_master_number": 166,
+            "name": "Waterblight Ganon"
+        },
+        {
+            "section": "Monsters",
+            "number": 159,
+            "dlc_number": 162,
+            "master_number": 164,
+            "dlc_master_number": 167,
+            "name": "Windblight Ganon"
+        },
+        {
+            "section": "Monsters",
+            "number": 160,
+            "dlc_number": 163,
+            "master_number": 165,
+            "dlc_master_number": 168,
+            "name": "Calamity Ganon"
+        },
+        {
+            "section": "Monsters",
+            "number": 161,
+            "dlc_number": 164,
+            "master_number": 166,
+            "dlc_master_number": 169,
+            "name": "Dark Beast Ganon"
+        },
+        {
+            "section": "Materials",
+            "number": 162,
+            "dlc_number": 165,
+            "master_number": 167,
+            "dlc_master_number": 170,
+            "name": "Apple"
+        },
+        {
+            "section": "Materials",
+            "number": 163,
+            "dlc_number": 166,
+            "master_number": 168,
+            "dlc_master_number": 171,
+            "name": "Palm Fruit"
+        },
+        {
+            "section": "Materials",
+            "number": 164,
+            "dlc_number": 167,
+            "master_number": 169,
+            "dlc_master_number": 172,
+            "name": "Wildberry"
+        },
+        {
+            "section": "Materials",
+            "number": 165,
+            "dlc_number": 168,
+            "master_number": 170,
+            "dlc_master_number": 173,
+            "name": "Hearty Durian"
+        },
+        {
+            "section": "Materials",
+            "number": 166,
+            "dlc_number": 169,
+            "master_number": 171,
+            "dlc_master_number": 174,
+            "name": "Hydromelon"
+        },
+        {
+            "section": "Materials",
+            "number": 167,
+            "dlc_number": 170,
+            "master_number": 172,
+            "dlc_master_number": 175,
+            "name": "Spicy Pepper"
+        },
+        {
+            "section": "Materials",
+            "number": 168,
+            "dlc_number": 171,
+            "master_number": 173,
+            "dlc_master_number": 176,
+            "name": "Voltfruit"
+        },
+        {
+            "section": "Materials",
+            "number": 169,
+            "dlc_number": 172,
+            "master_number": 174,
+            "dlc_master_number": 177,
+            "name": "Fleet-Lotus Seeds"
+        },
+        {
+            "section": "Materials",
+            "number": 170,
+            "dlc_number": 173,
+            "master_number": 175,
+            "dlc_master_number": 178,
+            "name": "Mighty Bananas"
+        },
+        {
+            "section": "Materials",
+            "number": 171,
+            "dlc_number": 174,
+            "master_number": 176,
+            "dlc_master_number": 179,
+            "name": "Hylian Shroom"
+        },
+        {
+            "section": "Materials",
+            "number": 172,
+            "dlc_number": 175,
+            "master_number": 177,
+            "dlc_master_number": 180,
+            "name": "Endura Shroom"
+        },
+        {
+            "section": "Materials",
+            "number": 173,
+            "dlc_number": 176,
+            "master_number": 178,
+            "dlc_master_number": 181,
+            "name": "Stamella Shroom"
+        },
+        {
+            "section": "Materials",
+            "number": 174,
+            "dlc_number": 177,
+            "master_number": 179,
+            "dlc_master_number": 182,
+            "name": "Hearty Truffle"
+        },
+        {
+            "section": "Materials",
+            "number": 175,
+            "dlc_number": 178,
+            "master_number": 180,
+            "dlc_master_number": 183,
+            "name": "Big Hearty Truffle"
+        },
+        {
+            "section": "Materials",
+            "number": 176,
+            "dlc_number": 179,
+            "master_number": 181,
+            "dlc_master_number": 184,
+            "name": "Chillshroom"
+        },
+        {
+            "section": "Materials",
+            "number": 177,
+            "dlc_number": 180,
+            "master_number": 182,
+            "dlc_master_number": 185,
+            "name": "Sunshroom"
+        },
+        {
+            "section": "Materials",
+            "number": 178,
+            "dlc_number": 181,
+            "master_number": 183,
+            "dlc_master_number": 186,
+            "name": "Zapshroom"
+        },
+        {
+            "section": "Materials",
+            "number": 179,
+            "dlc_number": 182,
+            "master_number": 184,
+            "dlc_master_number": 187,
+            "name": "Rushroom"
+        },
+        {
+            "section": "Materials",
+            "number": 180,
+            "dlc_number": 183,
+            "master_number": 185,
+            "dlc_master_number": 188,
+            "name": "Razorshroom"
+        },
+        {
+            "section": "Materials",
+            "number": 181,
+            "dlc_number": 184,
+            "master_number": 186,
+            "dlc_master_number": 189,
+            "name": "Ironshroom"
+        },
+        {
+            "section": "Materials",
+            "number": 182,
+            "dlc_number": 185,
+            "master_number": 187,
+            "dlc_master_number": 190,
+            "name": "Silent Shroom"
+        },
+        {
+            "section": "Materials",
+            "number": 183,
+            "dlc_number": 186,
+            "master_number": 188,
+            "dlc_master_number": 191,
+            "name": "Hyrule Herb"
+        },
+        {
+            "section": "Materials",
+            "number": 184,
+            "dlc_number": 187,
+            "master_number": 189,
+            "dlc_master_number": 192,
+            "name": "Hearty Radish"
+        },
+        {
+            "section": "Materials",
+            "number": 185,
+            "dlc_number": 188,
+            "master_number": 190,
+            "dlc_master_number": 193,
+            "name": "Big Hearty Radish"
+        },
+        {
+            "section": "Materials",
+            "number": 186,
+            "dlc_number": 189,
+            "master_number": 191,
+            "dlc_master_number": 194,
+            "name": "Cool Safflina"
+        },
+        {
+            "section": "Materials",
+            "number": 187,
+            "dlc_number": 190,
+            "master_number": 192,
+            "dlc_master_number": 195,
+            "name": "Warm Safflina"
+        },
+        {
+            "section": "Materials",
+            "number": 188,
+            "dlc_number": 191,
+            "master_number": 193,
+            "dlc_master_number": 196,
+            "name": "Electric Safflina"
+        },
+        {
+            "section": "Materials",
+            "number": 189,
+            "dlc_number": 192,
+            "master_number": 194,
+            "dlc_master_number": 197,
+            "name": "Swift Carrot"
+        },
+        {
+            "section": "Materials",
+            "number": 190,
+            "dlc_number": 193,
+            "master_number": 195,
+            "dlc_master_number": 198,
+            "name": "Endura Carrot"
+        },
+        {
+            "section": "Materials",
+            "number": 191,
+            "dlc_number": 194,
+            "master_number": 196,
+            "dlc_master_number": 199,
+            "name": "Fortified Pumpkin"
+        },
+        {
+            "section": "Materials",
+            "number": 192,
+            "dlc_number": 195,
+            "master_number": 197,
+            "dlc_master_number": 200,
+            "name": "Swift Violet"
+        },
+        {
+            "section": "Materials",
+            "number": 193,
+            "dlc_number": 196,
+            "master_number": 198,
+            "dlc_master_number": 201,
+            "name": "Mighty Thistle"
+        },
+        {
+            "section": "Materials",
+            "number": 194,
+            "dlc_number": 197,
+            "master_number": 199,
+            "dlc_master_number": 202,
+            "name": "Armoranth"
+        },
+        {
+            "section": "Materials",
+            "number": 195,
+            "dlc_number": 198,
+            "master_number": 200,
+            "dlc_master_number": 203,
+            "name": "Blue Nightshade"
+        },
+        {
+            "section": "Materials",
+            "number": 196,
+            "dlc_number": 199,
+            "master_number": 201,
+            "dlc_master_number": 204,
+            "name": "Silent Princess"
+        },
+        {
+            "section": "Materials",
+            "number": 197,
+            "dlc_number": 200,
+            "master_number": 202,
+            "dlc_master_number": 205,
+            "name": "Courser Bee Honey"
+        },
+        {
+            "section": "Equipment",
+            "number": 198,
+            "dlc_number": 201,
+            "master_number": 203,
+            "dlc_master_number": 206,
+            "name": "Master Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 199,
+            "dlc_number": 202,
+            "master_number": 204,
+            "dlc_master_number": 207,
+            "name": "Tree Branch"
+        },
+        {
+            "section": "Equipment",
+            "number": 200,
+            "dlc_number": 203,
+            "master_number": 205,
+            "dlc_master_number": 208,
+            "name": "Torch"
+        },
+        {
+            "section": "Equipment",
+            "number": 201,
+            "dlc_number": 204,
+            "master_number": 206,
+            "dlc_master_number": 209,
+            "name": "Soup Ladle"
+        },
+        {
+            "section": "Equipment",
+            "number": 202,
+            "dlc_number": 205,
+            "master_number": 207,
+            "dlc_master_number": 210,
+            "name": "Boomerang"
+        },
+        {
+            "section": "Equipment",
+            "number": 203,
+            "dlc_number": 206,
+            "master_number": 208,
+            "dlc_master_number": 211,
+            "name": "Spring-Loaded Hammer"
+        },
+        {
+            "section": "Equipment",
+            "number": 204,
+            "dlc_number": 207,
+            "master_number": 209,
+            "dlc_master_number": 212,
+            "name": "Traveler's Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 205,
+            "dlc_number": 208,
+            "master_number": 210,
+            "dlc_master_number": 213,
+            "name": "Soldier's Broadsword"
+        },
+        {
+            "section": "Equipment",
+            "number": 206,
+            "dlc_number": 209,
+            "master_number": 211,
+            "dlc_master_number": 214,
+            "name": "Knight's Broadsword"
+        },
+        {
+            "section": "Equipment",
+            "number": 207,
+            "dlc_number": 210,
+            "master_number": 212,
+            "dlc_master_number": 215,
+            "name": "Royal Broadsword"
+        },
+        {
+            "section": "Equipment",
+            "number": 208,
+            "dlc_number": 211,
+            "master_number": 213,
+            "dlc_master_number": 216,
+            "name": "Forest Dweller's Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 209,
+            "dlc_number": 212,
+            "master_number": 214,
+            "dlc_master_number": 217,
+            "name": "Zora Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 210,
+            "dlc_number": 213,
+            "master_number": 215,
+            "dlc_master_number": 218,
+            "name": "Feathered Edge"
+        },
+        {
+            "section": "Equipment",
+            "number": 211,
+            "dlc_number": 214,
+            "master_number": 216,
+            "dlc_master_number": 219,
+            "name": "Gerudo Scimitar"
+        },
+        {
+            "section": "Equipment",
+            "number": 212,
+            "dlc_number": 215,
+            "master_number": 217,
+            "dlc_master_number": 220,
+            "name": "Moonlight Scimitar"
+        },
+        {
+            "section": "Equipment",
+            "number": 213,
+            "dlc_number": 216,
+            "master_number": 218,
+            "dlc_master_number": 221,
+            "name": "Scimitar of the Seven"
+        },
+        {
+            "section": "Equipment",
+            "number": 214,
+            "dlc_number": 217,
+            "master_number": 219,
+            "dlc_master_number": 222,
+            "name": "Eightfold Blade"
+        },
+        {
+            "section": "Equipment",
+            "number": 215,
+            "dlc_number": 218,
+            "master_number": 220,
+            "dlc_master_number": 223,
+            "name": "Ancient Short Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 216,
+            "dlc_number": 219,
+            "master_number": 221,
+            "dlc_master_number": 224,
+            "name": "Rusty Broadsword"
+        },
+        {
+            "section": "Equipment",
+            "number": 217,
+            "dlc_number": 220,
+            "master_number": 222,
+            "dlc_master_number": 225,
+            "name": "Royal Guard's Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 218,
+            "dlc_number": 221,
+            "master_number": 223,
+            "dlc_master_number": 226,
+            "name": "Flameblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 219,
+            "dlc_number": 222,
+            "master_number": 224,
+            "dlc_master_number": 227,
+            "name": "Frostblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 220,
+            "dlc_number": 223,
+            "master_number": 225,
+            "dlc_master_number": 228,
+            "name": "Thunderblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 221,
+            "dlc_number": 224,
+            "master_number": 226,
+            "dlc_master_number": 229,
+            "name": "Boko Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 222,
+            "dlc_number": 225,
+            "master_number": 227,
+            "dlc_master_number": 230,
+            "name": "Spiked Boko Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 223,
+            "dlc_number": 226,
+            "master_number": 228,
+            "dlc_master_number": 231,
+            "name": "Dragonbone Boko Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 224,
+            "dlc_number": 227,
+            "master_number": 229,
+            "dlc_master_number": 232,
+            "name": "Lizal Boomerang"
+        },
+        {
+            "section": "Equipment",
+            "number": 225,
+            "dlc_number": 228,
+            "master_number": 230,
+            "dlc_master_number": 233,
+            "name": "Lizal Forked Boomerang"
+        },
+        {
+            "section": "Equipment",
+            "number": 226,
+            "dlc_number": 229,
+            "master_number": 231,
+            "dlc_master_number": 234,
+            "name": "Lizal Tri-Boomerang"
+        },
+        {
+            "section": "Equipment",
+            "number": 227,
+            "dlc_number": 230,
+            "master_number": 232,
+            "dlc_master_number": 235,
+            "name": "Guardian Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 228,
+            "dlc_number": 231,
+            "master_number": 233,
+            "dlc_master_number": 236,
+            "name": "Guardian Sword+"
+        },
+        {
+            "section": "Equipment",
+            "number": 229,
+            "dlc_number": 232,
+            "master_number": 234,
+            "dlc_master_number": 237,
+            "name": "Guardian Sword++"
+        },
+        {
+            "section": "Equipment",
+            "number": 230,
+            "dlc_number": 233,
+            "master_number": 235,
+            "dlc_master_number": 238,
+            "name": "Lynel Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 231,
+            "dlc_number": 234,
+            "master_number": 236,
+            "dlc_master_number": 239,
+            "name": "Mighty Lynel Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 232,
+            "dlc_number": 235,
+            "master_number": 237,
+            "dlc_master_number": 240,
+            "name": "Savage Lynel Sword"
+        },
+        {
+            "section": "Equipment",
+            "number": 233,
+            "dlc_number": 236,
+            "master_number": 238,
+            "dlc_master_number": 241,
+            "name": "Fire Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 234,
+            "dlc_number": 237,
+            "master_number": 239,
+            "dlc_master_number": 242,
+            "name": "Meteor Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 235,
+            "dlc_number": 238,
+            "master_number": 240,
+            "dlc_master_number": 243,
+            "name": "Ice Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 236,
+            "dlc_number": 239,
+            "master_number": 241,
+            "dlc_master_number": 244,
+            "name": "Blizzard Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 237,
+            "dlc_number": 240,
+            "master_number": 242,
+            "dlc_master_number": 245,
+            "name": "Lightning Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 238,
+            "dlc_number": 241,
+            "master_number": 243,
+            "dlc_master_number": 246,
+            "name": "Thunderstorm Rod"
+        },
+        {
+            "section": "Equipment",
+            "number": 239,
+            "dlc_number": 242,
+            "master_number": 244,
+            "dlc_master_number": 247,
+            "name": "Vicious Sickle"
+        },
+        {
+            "section": "Equipment",
+            "number": 240,
+            "dlc_number": 243,
+            "master_number": 245,
+            "dlc_master_number": 248,
+            "name": "Demon Carver"
+        },
+        {
+            "section": "Equipment",
+            "number": null,
+            "dlc_number": 244,
+            "master_number": null,
+            "dlc_master_number": 249,
+            "name": "One-Hit Obliterator"
+        },
+        {
+            "section": "Equipment",
+            "number": 241,
+            "dlc_number": 245,
+            "master_number": 246,
+            "dlc_master_number": 250,
+            "name": "Bokoblin Arm"
+        },
+        {
+            "section": "Equipment",
+            "number": 242,
+            "dlc_number": 246,
+            "master_number": 247,
+            "dlc_master_number": 251,
+            "name": "Lizalfos Arm"
+        },
+        {
+            "section": "Equipment",
+            "number": 243,
+            "dlc_number": 247,
+            "master_number": 248,
+            "dlc_master_number": 252,
+            "name": "Korok Leaf"
+        },
+        {
+            "section": "Equipment",
+            "number": 244,
+            "dlc_number": 248,
+            "master_number": 249,
+            "dlc_master_number": 253,
+            "name": "Farming Hoe"
+        },
+        {
+            "section": "Equipment",
+            "number": 245,
+            "dlc_number": 249,
+            "master_number": 250,
+            "dlc_master_number": 254,
+            "name": "Boat Oar"
+        },
+        {
+            "section": "Equipment",
+            "number": 246,
+            "dlc_number": 250,
+            "master_number": 251,
+            "dlc_master_number": 255,
+            "name": "Woodcutter's Axe"
+        },
+        {
+            "section": "Equipment",
+            "number": 247,
+            "dlc_number": 251,
+            "master_number": 252,
+            "dlc_master_number": 256,
+            "name": "Double Axe"
+        },
+        {
+            "section": "Equipment",
+            "number": 248,
+            "dlc_number": 252,
+            "master_number": 253,
+            "dlc_master_number": 257,
+            "name": "Iron Sledgehammer"
+        },
+        {
+            "section": "Equipment",
+            "number": 249,
+            "dlc_number": 253,
+            "master_number": 254,
+            "dlc_master_number": 258,
+            "name": "Giant Boomerang"
+        },
+        {
+            "section": "Equipment",
+            "number": 250,
+            "dlc_number": 254,
+            "master_number": 255,
+            "dlc_master_number": 259,
+            "name": "Traveler's Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 251,
+            "dlc_number": 255,
+            "master_number": 256,
+            "dlc_master_number": 260,
+            "name": "Soldier's Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 252,
+            "dlc_number": 256,
+            "master_number": 257,
+            "dlc_master_number": 261,
+            "name": "Knight's Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 253,
+            "dlc_number": 257,
+            "master_number": 258,
+            "dlc_master_number": 262,
+            "name": "Royal Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 254,
+            "dlc_number": 258,
+            "master_number": 259,
+            "dlc_master_number": 263,
+            "name": "Silver Longsword"
+        },
+        {
+            "section": "Equipment",
+            "number": 255,
+            "dlc_number": 259,
+            "master_number": 260,
+            "dlc_master_number": 264,
+            "name": "Cobble Crusher"
+        },
+        {
+            "section": "Equipment",
+            "number": 256,
+            "dlc_number": 260,
+            "master_number": 261,
+            "dlc_master_number": 265,
+            "name": "Stone Smasher"
+        },
+        {
+            "section": "Equipment",
+            "number": 257,
+            "dlc_number": 261,
+            "master_number": 262,
+            "dlc_master_number": 266,
+            "name": "Boulder Breaker"
+        },
+        {
+            "section": "Equipment",
+            "number": 258,
+            "dlc_number": 262,
+            "master_number": 263,
+            "dlc_master_number": 267,
+            "name": "Golden Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 259,
+            "dlc_number": 263,
+            "master_number": 264,
+            "dlc_master_number": 268,
+            "name": "Eightfold Longblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 260,
+            "dlc_number": 264,
+            "master_number": 265,
+            "dlc_master_number": 269,
+            "name": "Edge of Duality"
+        },
+        {
+            "section": "Equipment",
+            "number": 261,
+            "dlc_number": 265,
+            "master_number": 266,
+            "dlc_master_number": 270,
+            "name": "Ancient Bladesaw"
+        },
+        {
+            "section": "Equipment",
+            "number": 262,
+            "dlc_number": 266,
+            "master_number": 267,
+            "dlc_master_number": 271,
+            "name": "Rusty Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 263,
+            "dlc_number": 267,
+            "master_number": 268,
+            "dlc_master_number": 272,
+            "name": "Royal Guard's Claymore"
+        },
+        {
+            "section": "Equipment",
+            "number": 264,
+            "dlc_number": 268,
+            "master_number": 269,
+            "dlc_master_number": 273,
+            "name": "Great Flameblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 265,
+            "dlc_number": 269,
+            "master_number": 270,
+            "dlc_master_number": 274,
+            "name": "Great Frostblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 266,
+            "dlc_number": 270,
+            "master_number": 271,
+            "dlc_master_number": 275,
+            "name": "Great Thunderblade"
+        },
+        {
+            "section": "Equipment",
+            "number": 267,
+            "dlc_number": 271,
+            "master_number": 272,
+            "dlc_master_number": 276,
+            "name": "Boko Bat"
+        },
+        {
+            "section": "Equipment",
+            "number": 268,
+            "dlc_number": 272,
+            "master_number": 273,
+            "dlc_master_number": 277,
+            "name": "Spiked Boko Bat"
+        },
+        {
+            "section": "Equipment",
+            "number": 269,
+            "dlc_number": 273,
+            "master_number": 274,
+            "dlc_master_number": 278,
+            "name": "Dragonbone Boko Bat"
+        },
+        {
+            "section": "Equipment",
+            "number": 270,
+            "dlc_number": 274,
+            "master_number": 275,
+            "dlc_master_number": 279,
+            "name": "Moblin Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 271,
+            "dlc_number": 275,
+            "master_number": 276,
+            "dlc_master_number": 280,
+            "name": "Spiked Moblin Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 272,
+            "dlc_number": 276,
+            "master_number": 277,
+            "dlc_master_number": 281,
+            "name": "Dragonbone Moblin Club"
+        },
+        {
+            "section": "Equipment",
+            "number": 273,
+            "dlc_number": 277,
+            "master_number": 278,
+            "dlc_master_number": 282,
+            "name": "Ancient Battle Axe"
+        },
+        {
+            "section": "Equipment",
+            "number": 274,
+            "dlc_number": 278,
+            "master_number": 279,
+            "dlc_master_number": 283,
+            "name": "Ancient Battle Axe+"
+        },
+        {
+            "section": "Equipment",
+            "number": 275,
+            "dlc_number": 279,
+            "master_number": 280,
+            "dlc_master_number": 284,
+            "name": "Ancient Battle Axe++"
+        },
+        {
+            "section": "Equipment",
+            "number": 276,
+            "dlc_number": 280,
+            "master_number": 281,
+            "dlc_master_number": 285,
+            "name": "Lynel Crusher"
+        },
+        {
+            "section": "Equipment",
+            "number": 277,
+            "dlc_number": 281,
+            "master_number": 282,
+            "dlc_master_number": 286,
+            "name": "Mighty Lynel Crusher"
+        },
+        {
+            "section": "Equipment",
+            "number": 278,
+            "dlc_number": 282,
+            "master_number": 283,
+            "dlc_master_number": 287,
+            "name": "Savage Lynel Crusher"
+        },
+        {
+            "section": "Equipment",
+            "number": 279,
+            "dlc_number": 283,
+            "master_number": 284,
+            "dlc_master_number": 288,
+            "name": "Windcleaver"
+        },
+        {
+            "section": "Equipment",
+            "number": 280,
+            "dlc_number": 284,
+            "master_number": 285,
+            "dlc_master_number": 289,
+            "name": "Moblin Arm"
+        },
+        {
+            "section": "Equipment",
+            "number": 281,
+            "dlc_number": 285,
+            "master_number": 286,
+            "dlc_master_number": 290,
+            "name": "Wooden Mop"
+        },
+        {
+            "section": "Equipment",
+            "number": 282,
+            "dlc_number": 286,
+            "master_number": 287,
+            "dlc_master_number": 291,
+            "name": "Farmer's Pitchfork"
+        },
+        {
+            "section": "Equipment",
+            "number": 283,
+            "dlc_number": 287,
+            "master_number": 288,
+            "dlc_master_number": 292,
+            "name": "Fishing Harpoon"
+        },
+        {
+            "section": "Equipment",
+            "number": 284,
+            "dlc_number": 288,
+            "master_number": 289,
+            "dlc_master_number": 293,
+            "name": "Throwing Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 285,
+            "dlc_number": 289,
+            "master_number": 290,
+            "dlc_master_number": 294,
+            "name": "Traveler's Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 286,
+            "dlc_number": 290,
+            "master_number": 291,
+            "dlc_master_number": 295,
+            "name": "Soldier's Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 287,
+            "dlc_number": 291,
+            "master_number": 292,
+            "dlc_master_number": 296,
+            "name": "Knight's Halberd"
+        },
+        {
+            "section": "Equipment",
+            "number": 288,
+            "dlc_number": 292,
+            "master_number": 293,
+            "dlc_master_number": 297,
+            "name": "Royal Halberd"
+        },
+        {
+            "section": "Equipment",
+            "number": 289,
+            "dlc_number": 293,
+            "master_number": 294,
+            "dlc_master_number": 298,
+            "name": "Forest Dweller's Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 290,
+            "dlc_number": 294,
+            "master_number": 295,
+            "dlc_master_number": 299,
+            "name": "Zora Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 291,
+            "dlc_number": 295,
+            "master_number": 296,
+            "dlc_master_number": 300,
+            "name": "Silverscale Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 292,
+            "dlc_number": 296,
+            "master_number": 297,
+            "dlc_master_number": 301,
+            "name": "Ceremonial Trident"
+        },
+        {
+            "section": "Equipment",
+            "number": 293,
+            "dlc_number": 297,
+            "master_number": 298,
+            "dlc_master_number": 302,
+            "name": "Lightscale Trident"
+        },
+        {
+            "section": "Equipment",
+            "number": 294,
+            "dlc_number": 298,
+            "master_number": 299,
+            "dlc_master_number": 303,
+            "name": "Drillshaft"
+        },
+        {
+            "section": "Equipment",
+            "number": 295,
+            "dlc_number": 299,
+            "master_number": 300,
+            "dlc_master_number": 304,
+            "name": "Feathered Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 296,
+            "dlc_number": 300,
+            "master_number": 301,
+            "dlc_master_number": 305,
+            "name": "Gerudo Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 297,
+            "dlc_number": 301,
+            "master_number": 302,
+            "dlc_master_number": 306,
+            "name": "Serpentine Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 298,
+            "dlc_number": 302,
+            "master_number": 303,
+            "dlc_master_number": 307,
+            "name": "Ancient Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 299,
+            "dlc_number": 303,
+            "master_number": 304,
+            "dlc_master_number": 308,
+            "name": "Rusty Halberd"
+        },
+        {
+            "section": "Equipment",
+            "number": 300,
+            "dlc_number": 304,
+            "master_number": 305,
+            "dlc_master_number": 309,
+            "name": "Royal Guard's Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 301,
+            "dlc_number": 305,
+            "master_number": 306,
+            "dlc_master_number": 310,
+            "name": "Flamespear"
+        },
+        {
+            "section": "Equipment",
+            "number": 302,
+            "dlc_number": 306,
+            "master_number": 307,
+            "dlc_master_number": 311,
+            "name": "Frostspear"
+        },
+        {
+            "section": "Equipment",
+            "number": 303,
+            "dlc_number": 307,
+            "master_number": 308,
+            "dlc_master_number": 312,
+            "name": "Thunderspear"
+        },
+        {
+            "section": "Equipment",
+            "number": 304,
+            "dlc_number": 308,
+            "master_number": 309,
+            "dlc_master_number": 313,
+            "name": "Boko Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 305,
+            "dlc_number": 309,
+            "master_number": 310,
+            "dlc_master_number": 314,
+            "name": "Spiked Boko Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 306,
+            "dlc_number": 310,
+            "master_number": 311,
+            "dlc_master_number": 315,
+            "name": "Dragonbone Boko Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 307,
+            "dlc_number": 311,
+            "master_number": 312,
+            "dlc_master_number": 316,
+            "name": "Moblin Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 308,
+            "dlc_number": 312,
+            "master_number": 313,
+            "dlc_master_number": 317,
+            "name": "Spiked Moblin Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 309,
+            "dlc_number": 313,
+            "master_number": 314,
+            "dlc_master_number": 318,
+            "name": "Dragonbone Moblin Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 310,
+            "dlc_number": 314,
+            "master_number": 315,
+            "dlc_master_number": 319,
+            "name": "Lizal Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 311,
+            "dlc_number": 315,
+            "master_number": 316,
+            "dlc_master_number": 320,
+            "name": "Enhanced Lizal Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 312,
+            "dlc_number": 316,
+            "master_number": 317,
+            "dlc_master_number": 321,
+            "name": "Forked Lizal Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 313,
+            "dlc_number": 317,
+            "master_number": 318,
+            "dlc_master_number": 322,
+            "name": "Guardian Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 314,
+            "dlc_number": 318,
+            "master_number": 319,
+            "dlc_master_number": 323,
+            "name": "Guardian Spear+"
+        },
+        {
+            "section": "Equipment",
+            "number": 315,
+            "dlc_number": 319,
+            "master_number": 320,
+            "dlc_master_number": 324,
+            "name": "Guardian Spear++"
+        },
+        {
+            "section": "Equipment",
+            "number": 316,
+            "dlc_number": 320,
+            "master_number": 321,
+            "dlc_master_number": 325,
+            "name": "Lynel Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 317,
+            "dlc_number": 321,
+            "master_number": 322,
+            "dlc_master_number": 326,
+            "name": "Mighty Lynel Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 318,
+            "dlc_number": 322,
+            "master_number": 323,
+            "dlc_master_number": 327,
+            "name": "Savage Lynel Spear"
+        },
+        {
+            "section": "Equipment",
+            "number": 319,
+            "dlc_number": 323,
+            "master_number": 324,
+            "dlc_master_number": 328,
+            "name": "Bow of Light"
+        },
+        {
+            "section": "Equipment",
+            "number": 320,
+            "dlc_number": 324,
+            "master_number": 325,
+            "dlc_master_number": 329,
+            "name": "Wooden Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 321,
+            "dlc_number": 325,
+            "master_number": 326,
+            "dlc_master_number": 330,
+            "name": "Traveler's Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 322,
+            "dlc_number": 326,
+            "master_number": 327,
+            "dlc_master_number": 331,
+            "name": "Soldier's Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 323,
+            "dlc_number": 327,
+            "master_number": 328,
+            "dlc_master_number": 332,
+            "name": "Knight's Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 324,
+            "dlc_number": 328,
+            "master_number": 329,
+            "dlc_master_number": 333,
+            "name": "Royal Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 325,
+            "dlc_number": 329,
+            "master_number": 330,
+            "dlc_master_number": 334,
+            "name": "Forest Dweller's Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 326,
+            "dlc_number": 330,
+            "master_number": 331,
+            "dlc_master_number": 335,
+            "name": "Silver Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 327,
+            "dlc_number": 331,
+            "master_number": 332,
+            "dlc_master_number": 336,
+            "name": "Swallow Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 328,
+            "dlc_number": 332,
+            "master_number": 333,
+            "dlc_master_number": 337,
+            "name": "Falcon Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 329,
+            "dlc_number": 333,
+            "master_number": 334,
+            "dlc_master_number": 338,
+            "name": "Great Eagle Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 330,
+            "dlc_number": 334,
+            "master_number": 335,
+            "dlc_master_number": 339,
+            "name": "Golden Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 331,
+            "dlc_number": 335,
+            "master_number": 336,
+            "dlc_master_number": 340,
+            "name": "Phrenic Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 332,
+            "dlc_number": 336,
+            "master_number": 337,
+            "dlc_master_number": 341,
+            "name": "Ancient Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 333,
+            "dlc_number": 337,
+            "master_number": 338,
+            "dlc_master_number": 342,
+            "name": "Royal Guard's Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 334,
+            "dlc_number": 338,
+            "master_number": 339,
+            "dlc_master_number": 343,
+            "name": "Boko Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 335,
+            "dlc_number": 339,
+            "master_number": 340,
+            "dlc_master_number": 344,
+            "name": "Spiked Boko Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 336,
+            "dlc_number": 340,
+            "master_number": 341,
+            "dlc_master_number": 345,
+            "name": "Dragon Bone Boko Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 337,
+            "dlc_number": 341,
+            "master_number": 342,
+            "dlc_master_number": 346,
+            "name": "Lizal Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 338,
+            "dlc_number": 342,
+            "master_number": 343,
+            "dlc_master_number": 347,
+            "name": "Strengthened Lizal Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 339,
+            "dlc_number": 343,
+            "master_number": 344,
+            "dlc_master_number": 348,
+            "name": "Steel Lizal Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 340,
+            "dlc_number": 344,
+            "master_number": 345,
+            "dlc_master_number": 349,
+            "name": "Lynel Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 341,
+            "dlc_number": 345,
+            "master_number": 346,
+            "dlc_master_number": 350,
+            "name": "Mighty Lynel Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 342,
+            "dlc_number": 346,
+            "master_number": 347,
+            "dlc_master_number": 351,
+            "name": "Savage Lynel Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 343,
+            "dlc_number": 347,
+            "master_number": 348,
+            "dlc_master_number": 352,
+            "name": "Duplex Bow"
+        },
+        {
+            "section": "Equipment",
+            "number": 344,
+            "dlc_number": 348,
+            "master_number": 349,
+            "dlc_master_number": 353,
+            "name": "Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 345,
+            "dlc_number": 349,
+            "master_number": 350,
+            "dlc_master_number": 354,
+            "name": "Fire Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 346,
+            "dlc_number": 350,
+            "master_number": 351,
+            "dlc_master_number": 355,
+            "name": "Ice Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 347,
+            "dlc_number": 351,
+            "master_number": 352,
+            "dlc_master_number": 356,
+            "name": "Shock Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 348,
+            "dlc_number": 352,
+            "master_number": 353,
+            "dlc_master_number": 357,
+            "name": "Bomb Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 349,
+            "dlc_number": 353,
+            "master_number": 354,
+            "dlc_master_number": 358,
+            "name": "Ancient Arrow"
+        },
+        {
+            "section": "Equipment",
+            "number": 350,
+            "dlc_number": 354,
+            "master_number": 355,
+            "dlc_master_number": 359,
+            "name": "Hylian Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 351,
+            "dlc_number": 355,
+            "master_number": 356,
+            "dlc_master_number": 360,
+            "name": "Pot Lid"
+        },
+        {
+            "section": "Equipment",
+            "number": 352,
+            "dlc_number": 356,
+            "master_number": 357,
+            "dlc_master_number": 361,
+            "name": "Wooden Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 353,
+            "dlc_number": 357,
+            "master_number": 358,
+            "dlc_master_number": 362,
+            "name": "Emblazoned Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 354,
+            "dlc_number": 358,
+            "master_number": 359,
+            "dlc_master_number": 363,
+            "name": "Hunter's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 355,
+            "dlc_number": 359,
+            "master_number": 360,
+            "dlc_master_number": 364,
+            "name": "Fisherman's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 356,
+            "dlc_number": 360,
+            "master_number": 361,
+            "dlc_master_number": 365,
+            "name": "Traveler's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 357,
+            "dlc_number": 361,
+            "master_number": 362,
+            "dlc_master_number": 366,
+            "name": "Soldier's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 358,
+            "dlc_number": 362,
+            "master_number": 363,
+            "dlc_master_number": 367,
+            "name": "Knight's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 359,
+            "dlc_number": 363,
+            "master_number": 364,
+            "dlc_master_number": 368,
+            "name": "Royal Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 360,
+            "dlc_number": 364,
+            "master_number": 365,
+            "dlc_master_number": 369,
+            "name": "Forest Dweller's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 361,
+            "dlc_number": 365,
+            "master_number": 366,
+            "dlc_master_number": 370,
+            "name": "Silver Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 362,
+            "dlc_number": 366,
+            "master_number": 367,
+            "dlc_master_number": 371,
+            "name": "Kite Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 363,
+            "dlc_number": 367,
+            "master_number": 368,
+            "dlc_master_number": 372,
+            "name": "Gerudo Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 364,
+            "dlc_number": 368,
+            "master_number": 369,
+            "dlc_master_number": 373,
+            "name": "Radiant Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 365,
+            "dlc_number": 369,
+            "master_number": 370,
+            "dlc_master_number": 374,
+            "name": "Daybreaker"
+        },
+        {
+            "section": "Equipment",
+            "number": 366,
+            "dlc_number": 370,
+            "master_number": 371,
+            "dlc_master_number": 375,
+            "name": "Shield of the Mind's Eye"
+        },
+        {
+            "section": "Equipment",
+            "number": 367,
+            "dlc_number": 371,
+            "master_number": 372,
+            "dlc_master_number": 376,
+            "name": "Ancient Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 368,
+            "dlc_number": 372,
+            "master_number": 373,
+            "dlc_master_number": 377,
+            "name": "Rusty Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 369,
+            "dlc_number": 373,
+            "master_number": 374,
+            "dlc_master_number": 378,
+            "name": "Royal Guard's Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 370,
+            "dlc_number": 374,
+            "master_number": 375,
+            "dlc_master_number": 379,
+            "name": "Boko Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 371,
+            "dlc_number": 375,
+            "master_number": 376,
+            "dlc_master_number": 380,
+            "name": "Spiked Boko Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 372,
+            "dlc_number": 376,
+            "master_number": 377,
+            "dlc_master_number": 381,
+            "name": "Dragonbone Boko Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 373,
+            "dlc_number": 377,
+            "master_number": 378,
+            "dlc_master_number": 382,
+            "name": "Lizal Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 374,
+            "dlc_number": 378,
+            "master_number": 379,
+            "dlc_master_number": 383,
+            "name": "Reinforced Lizal Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 375,
+            "dlc_number": 379,
+            "master_number": 380,
+            "dlc_master_number": 384,
+            "name": "Steel Lizal Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 376,
+            "dlc_number": 380,
+            "master_number": 381,
+            "dlc_master_number": 385,
+            "name": "Guardian Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 377,
+            "dlc_number": 381,
+            "master_number": 382,
+            "dlc_master_number": 386,
+            "name": "Guardian Shield+"
+        },
+        {
+            "section": "Equipment",
+            "number": 378,
+            "dlc_number": 382,
+            "master_number": 383,
+            "dlc_master_number": 387,
+            "name": "Guardian Shield++"
+        },
+        {
+            "section": "Equipment",
+            "number": 379,
+            "dlc_number": 383,
+            "master_number": 384,
+            "dlc_master_number": 388,
+            "name": "Lynel Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 380,
+            "dlc_number": 384,
+            "master_number": 385,
+            "dlc_master_number": 389,
+            "name": "Mighty Lynel Shield"
+        },
+        {
+            "section": "Equipment",
+            "number": 381,
+            "dlc_number": 385,
+            "master_number": 386,
+            "dlc_master_number": 390,
+            "name": "Savage Lynel Shield"
+        },
+        {
+            "section": "Treasure",
+            "number": 382,
+            "dlc_number": 386,
+            "master_number": 387,
+            "dlc_master_number": 391,
+            "name": "Treasure Chest"
+        },
+        {
+            "section": "Treasure",
+            "number": 383,
+            "dlc_number": 387,
+            "master_number": 388,
+            "dlc_master_number": 392,
+            "name": "Ore Deposit"
+        },
+        {
+            "section": "Treasure",
+            "number": 384,
+            "dlc_number": 388,
+            "master_number": 389,
+            "dlc_master_number": 393,
+            "name": "Rare Ore Deposit"
+        },
+        {
+            "section": "Treasure",
+            "number": 385,
+            "dlc_number": 389,
+            "master_number": 390,
+            "dlc_master_number": 394,
+            "name": "Luminous Stone Deposit"
+        }
     ]
 
 }

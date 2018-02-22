@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from   collections import defaultdict
 from   contextlib  import redirect_stdout
+from   itertools   import groupby
 import json
 from   operator    import itemgetter
 
@@ -97,6 +98,23 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
             print(r'\end{enumerate}')
 
         print(r'\end{multicols}')
+
+    print(r'\section*{Hyrule Compendium}')
+    print(r'\begin{multicols}{2}')
+    for section, entries in groupby(data["compendium"], itemgetter("section")):
+        print(r'\subsection*{', section, '}', sep='')
+        print(r'\begin{enumerate}[label=$\square$]')
+        for e in entries:
+            number = e["dlc_number"]
+            master = e["dlc_master_number"]
+            if number is None:
+                number = '---'
+                print(r'\item ---/\textbf{', master, '. ', e["name"], '}', sep='')
+            else:
+                number = str(number).rjust(3, '~')
+                print(r'\item ', number, r'/\textbf{', master, '}. ', e["name"], sep='')
+        print(r'\end{enumerate}')
+    print(r'\end{multicols}')
 
     ### dlc_quests
     ### regionless/DLC side quests
