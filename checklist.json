@@ -1472,6 +1472,10 @@
         {
             "name": "Revive Great Fairy Tera",
             "region": "Wasteland"
+        },
+        {
+            "name": "Speak to Symin after completing Hyrule Compendium",
+            "region": "Hateno"
         }
     ],
 
