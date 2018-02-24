@@ -122,11 +122,15 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         for e in entries:
             number = e["dlc_number"]
             master = e["dlc_master_number"]
+            name   = e["name"]
             if number is None:
-                print(r'\item ---/\textbf{', master, '. ', e["name"], '}', sep='')
+                number = '---'
+                name = r'\textbf{' + e["name"] + '}'
             else:
                 number = str(number).rjust(3, '~')
-                print(r'\item ', number, r'/\textbf{', master, '}. ', e["name"], sep='')
+                if e["number"] is None:
+                    name = r'\dlc{' + e["name"] + '}'
+            print(r'\item ', number, r'/\textbf{', master, '}. ', name, sep='')
         print(r'\end{enumerate}')
     print(r'\end{multicols}')
 
