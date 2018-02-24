@@ -82,7 +82,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\subsection*{Shrines}')
         print(r'\begin{enumerate}[label=$\square$\thinspace\protect\chest]')
         for shrine in shrines_by_region[region["name"]]:
-            if shrine["dlc"] is None:
+            if not shrine["dlc"]:
                 print(r'\item {name} \emph{{({trial})}}'.format(**shrine))
                 if shrine["quest"] is not None:
                     print(r'\begin{enumerate}[label=$\square$]')
