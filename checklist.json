@@ -1050,12 +1050,12 @@
         "Destroy Ganon"
     ],
 
-    "dlc_quests": [
+    "dlc_main_quests": [
+        "EX The Champions' Ballad",
         "EX Champion Daruk's Song",
         "EX Champion Mipha's Song",
         "EX Champion Revali's Song",
-        "EX Champion Urbosa's Song",
-        "EX The Champions' Ballad"
+        "EX Champion Urbosa's Song"
     ],
 
     "memories": [

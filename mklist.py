@@ -28,6 +28,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \usepackage[margin=1in]{geometry}
 \usepackage{multicol}
 \usepackage{tikz}
+\newcommand{\dlc}{\emph}
 \makeatletter
 \newlength{\chest@width}
 \setlength{\chest@width}{1em}
@@ -62,6 +63,8 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\begin{enumerate}[label=$\square$]')
     for quest in data["main_quests"]:
         print(r'\item', quest)
+    for quest in data["dlc_main_quests"]:
+        print(r'\item \dlc{', quest, '}', sep='')
     print(r'\end{enumerate}')
 
     print(r'\section*{Recovered Memories}')
@@ -116,7 +119,6 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\end{enumerate}')
     print(r'\end{multicols}')
 
-    ### dlc_quests
     ### regionless/DLC side quests
     ### other
 
