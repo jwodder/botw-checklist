@@ -102,6 +102,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 
         print(r'\end{multicols}')
 
+    print(r'\newpage')
     print(r'\section*{Hyrule Compendium}')
     print(r'\begin{multicols}{2}')
     for section, entries in groupby(data["compendium"], itemgetter("section")):
