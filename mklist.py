@@ -102,6 +102,17 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 
         print(r'\end{multicols}')
 
+    print(r'\section*{Other}')
+    print(r'\begin{enumerate}[label=$\square$]')
+    for other in data["other"]:
+        print(r'\item', other["name"])
+    print(r"\item Find dogs' buried treasures:")
+    print(r'\begin{enumerate}[label=$\square$]')
+    for dog in data["dogs"]:
+        print(r'\item', dog["location"])
+    print(r'\end{enumerate}')
+    print(r'\end{enumerate}')
+
     print(r'\newpage')
     print(r'\section*{Hyrule Compendium}')
     print(r'\begin{multicols}{2}')
@@ -112,7 +123,6 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
             number = e["dlc_number"]
             master = e["dlc_master_number"]
             if number is None:
-                number = '---'
                 print(r'\item ---/\textbf{', master, '. ', e["name"], '}', sep='')
             else:
                 number = str(number).rjust(3, '~')
@@ -121,6 +131,6 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\end{multicols}')
 
     ### regionless/DLC side quests
-    ### other
+    ### DLC shrines
 
     print(r'\end{document}')

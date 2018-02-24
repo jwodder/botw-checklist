@@ -4632,6 +4632,65 @@
             "dlc_master_number": 394,
             "name": "Luminous Stone Deposit"
         }
+    ],
+
+    "dogs": [
+        {
+            "region": "Akkala",
+            "location": "East Akkala Stable"
+        },
+        {
+            "region": "Wasteland",
+            "location": "Gerudo Canyon Stable"
+        },
+        {
+            "region": "Hateno",
+            "location": "Hateno Village"
+        },
+        {
+            "region": "Lake",
+            "location": "Highland Stable"
+        },
+        {
+            "region": "Wasteland",
+            "location": "Kara Kara Bazaar"
+        },
+        {
+            "region": "Faron",
+            "location": "Lakeside Stable"
+        },
+        {
+            "region": "Faron",
+            "location": "Lurelin Village"
+        },
+        {
+            "region": "Central",
+            "location": "Outskirt Stable"
+        },
+        {
+            "region": "Woodland",
+            "location": "Serenne Stable"
+        },
+        {
+            "region": "Hebra",
+            "location": "Snowfield Stable"
+        },
+        {
+            "region": "Akkala",
+            "location": "South Akkala Stable"
+        },
+        {
+            "region": "Akkala",
+            "location": "Tarrey Town"
+        },
+        {
+            "region": "Lanayru",
+            "location": "Wetland Stable"
+        },
+        {
+            "region": "Woodland",
+            "location": "Woodland Stable"
+        }
     ]
 
 }
