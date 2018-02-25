@@ -1476,6 +1476,10 @@
         {
             "name": "Speak to Symin after completing Hyrule Compendium",
             "region": "Hateno"
+        },
+        {
+            "name": "Speak to Hestu after collecting all 900 Korok Seeds",
+            "region": "Woodland"
         }
     ],
 
