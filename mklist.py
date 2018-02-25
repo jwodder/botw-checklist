@@ -29,6 +29,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \usepackage{multicol}
 \usepackage{tikz}
 \newcommand{\dlc}{\emph}
+\raggedcolumns
 \makeatletter
 \newlength{\chest@width}
 \setlength{\chest@width}{1em}
@@ -59,6 +60,8 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \begin{document}
 ''')
 
+    print(r'\begin{multicols}{2}')
+
     print(r'\section*{Main Quests}')
     print(r'\begin{enumerate}[label=$\square$]')
     for quest in data["main_quests"]:
@@ -67,11 +70,14 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\item \dlc{', quest, '}', sep='')
     print(r'\end{enumerate}')
 
+    print(r'\columnbreak')
     print(r'\section*{Recovered Memories}')
     print(r'\begin{enumerate}[label=$\square$]')
     for i, mem in enumerate(data["memories"], start=1):
         print(r'\item ', i, '. ', mem, sep='')
     print(r'\end{enumerate}')
+
+    print(r'\end{multicols}')
 
     for region in data["regions"]:
         print(r'\section*{' + region["tower"] + ' Region}')
@@ -80,9 +86,11 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\item Activate', region["tower"])
         print(r'\end{enumerate}')
 
-        print(r'\begin{multicols}{2}')
-
-        print(r'\subsection*{Shrines}')
+        if quests_by_region[region["name"]]:
+            print(r'\begin{multicols}{2}')
+            print(r'\subsection*{Shrines}')
+        else:
+            print(r'\begin{multicols}{2}[\subsection*{Shrines}]')
         print(r'\begin{enumerate}[label=$\square$\thinspace\protect\chest]')
         for shrine in shrines_by_region[region["name"]]:
             if not shrine["dlc"]:
@@ -94,6 +102,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\end{enumerate}')
 
         if quests_by_region[region["name"]]:
+            print(r'\columnbreak')
             print(r'\subsection*{Side Quests}')
             print(r'\begin{enumerate}[label=$\square$]')
             for quest in quests_by_region[region["name"]]:
