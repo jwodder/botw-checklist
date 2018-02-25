@@ -3,77 +3,77 @@
         {
             "name": "Akkala",
             "tower": "Akkala Tower",
-            "korok_seeds": "57"
+            "korok_seeds": 57
         },
         {
             "name": "Central",
             "tower": "Central Tower",
-            "korok_seeds": "114"
+            "korok_seeds": 114
         },
         {
             "name": "Dueling Peaks",
             "tower": "Dueling Peaks Tower",
-            "korok_seeds": "59"
+            "korok_seeds": 59
         },
         {
             "name": "Eldin",
             "tower": "Eldin Tower",
-            "korok_seeds": "45"
+            "korok_seeds": 45
         },
         {
             "name": "Faron",
             "tower": "Faron Tower",
-            "korok_seeds": "58"
+            "korok_seeds": 58
         },
         {
             "name": "Gerudo",
             "tower": "Gerudo Tower",
-            "korok_seeds": "36"
+            "korok_seeds": 36
         },
         {
             "name": "Great Plateau",
             "tower": "Great Plateau Tower",
-            "korok_seeds": "18"
+            "korok_seeds": 18
         },
         {
             "name": "Hateno",
             "tower": "Hateno Tower",
-            "korok_seeds": "66"
+            "korok_seeds": 66
         },
         {
             "name": "Hebra",
             "tower": "Hebra Tower",
-            "korok_seeds": "73"
+            "korok_seeds": 73
         },
         {
             "name": "Lake",
             "tower": "Lake Tower",
-            "korok_seeds": "92"
+            "korok_seeds": 92
         },
         {
             "name": "Lanayru",
             "tower": "Lanayru Tower",
-            "korok_seeds": "62"
+            "korok_seeds": 62
         },
         {
             "name": "Ridgeland",
             "tower": "Ridgeland Tower",
-            "korok_seeds": "80"
+            "korok_seeds": 80
         },
         {
             "name": "Tabantha",
             "tower": "Tabantha Tower",
-            "korok_seeds": "37"
+            "korok_seeds": 37
         },
         {
             "name": "Wasteland",
             "tower": "Wasteland Tower",
-            "korok_seeds": "68"
+            "korok_seeds": 68
         },
         {
             "name": "Woodland",
             "tower": "Woodland Tower",
-            "korok_seeds": "35"
+            "korok_seeds": 35
         }
     ],
 
