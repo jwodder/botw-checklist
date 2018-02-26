@@ -5,6 +5,13 @@ from   itertools   import groupby
 import json
 from   operator    import itemgetter
 
+WEAPON_SPACE_START = 9
+WEAPON_SPACE_MAX   = WEAPON_SPACE_START + 11
+BOW_SPACE_START    = 5
+BOW_SPACE_MAX      = BOW_SPACE_START + 8
+SHIELD_SPACE_START = 4
+SHIELD_SPACE_MAX   = SHIELD_SPACE_START + 16
+
 with open('checklist.json') as fp:
     data = json.load(fp)
 
@@ -110,6 +117,22 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
             print(r'\end{enumerate}')
 
         print(r'\end{multicols}')
+
+    max_spaces = max(WEAPON_SPACE_MAX, BOW_SPACE_MAX, SHIELD_SPACE_MAX)
+    print(r'\section*{Expand Inventory}')
+    print(r'\begin{tabular}{r|', r'@{\enskip}'.join('c' * max_spaces), '}',
+          sep='')
+    for i in range(1, max_spaces+1):
+        print('&', i, end='')
+    print(r'\\ \hline')
+    for label, start, maxxed in [
+        ('Weapons', WEAPON_SPACE_START, WEAPON_SPACE_MAX),
+        ('Bows', BOW_SPACE_START, BOW_SPACE_MAX),
+        ('Shields', SHIELD_SPACE_START, SHIELD_SPACE_MAX),
+    ]:
+        print(label, '& --' * start, r'& $\square$' * (maxxed - start),
+              '& ' * (max_spaces - maxxed), r'\\')
+    print(r'\end{tabular}')
 
     print(r'\section*{Other}')
     print(r'\begin{enumerate}[label=$\square$]')
