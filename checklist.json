@@ -4695,6 +4695,411 @@
             "region": "Woodland",
             "location": "Woodland Stable"
         }
+    ],
+
+    "enhanceable_armor": [
+        {
+            "name": "Champion's Tunic",
+            "body_part": "chest",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Sand Boots",
+            "body_part": "legs",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Snow Boots",
+            "body_part": "legs",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Topaz Earrings",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Opal Earrings",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Amber Earrings",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Diamond Circlet",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Ruby Circlet",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Sapphire Circlet",
+            "body_part": "head",
+            "set": null,
+            "amiibo": false
+        },
+        {
+            "name": "Sheik's Mask",
+            "body_part": "head",
+            "set": null,
+            "amiibo": true
+        },
+        {
+            "name": "Barbarian Helm",
+            "body_part": "head",
+            "set": "Barbarian",
+            "amiibo": false
+        },
+        {
+            "name": "Barbarian Armor",
+            "body_part": "chest",
+            "set": "Barbarian",
+            "amiibo": false
+        },
+        {
+            "name": "Barbarian Leg Wraps",
+            "body_part": "legs",
+            "set": "Barbarian",
+            "amiibo": false
+        },
+        {
+            "name": "Climber's Bandanna",
+            "body_part": "head",
+            "set": "Climber",
+            "amiibo": false
+        },
+        {
+            "name": "Climbing Gear",
+            "body_part": "chest",
+            "set": "Climber",
+            "amiibo": false
+        },
+        {
+            "name": "Climbing Boots",
+            "body_part": "legs",
+            "set": "Climber",
+            "amiibo": false
+        },
+        {
+            "name": "Desert Voe Headband",
+            "body_part": "head",
+            "set": "Desert Voe",
+            "amiibo": false
+        },
+        {
+            "name": "Desert Voe Spaulder",
+            "body_part": "chest",
+            "set": "Desert Voe",
+            "amiibo": false
+        },
+        {
+            "name": "Desert Voe Trousers",
+            "body_part": "legs",
+            "set": "Desert Voe",
+            "amiibo": false
+        },
+        {
+            "name": "Fierce Deity Mask",
+            "body_part": "head",
+            "set": "Fierce Deity",
+            "amiibo": true
+        },
+        {
+            "name": "Fierce Deity Armor",
+            "body_part": "chest",
+            "set": "Fierce Deity",
+            "amiibo": true
+        },
+        {
+            "name": "Fierce Deity Boots",
+            "body_part": "legs",
+            "set": "Fierce Deity",
+            "amiibo": true
+        },
+        {
+            "name": "Flamebreaker Helm",
+            "body_part": "head",
+            "set": "Flamebreaker",
+            "amiibo": false
+        },
+        {
+            "name": "Flamebreaker Armor",
+            "body_part": "chest",
+            "set": "Flamebreaker",
+            "amiibo": false
+        },
+        {
+            "name": "Flamebreaker Boots",
+            "body_part": "legs",
+            "set": "Flamebreaker",
+            "amiibo": false
+        },
+        {
+            "name": "Ancient Helm",
+            "body_part": "head",
+            "set": "Ancient",
+            "amiibo": false
+        },
+        {
+            "name": "Ancient Cuirass",
+            "body_part": "chest",
+            "set": "Ancient",
+            "amiibo": false
+        },
+        {
+            "name": "Ancient Greaves",
+            "body_part": "legs",
+            "set": "Ancient",
+            "amiibo": false
+        },
+        {
+            "name": "Cap of the Sky",
+            "body_part": "head",
+            "set": "Sky",
+            "amiibo": true
+        },
+        {
+            "name": "Tunic of the Sky",
+            "body_part": "chest",
+            "set": "Sky",
+            "amiibo": true
+        },
+        {
+            "name": "Trousers of the Sky",
+            "body_part": "legs",
+            "set": "Sky",
+            "amiibo": true
+        },
+        {
+            "name": "Cap of Time",
+            "body_part": "head",
+            "set": "Time",
+            "amiibo": true
+        },
+        {
+            "name": "Tunic of Time",
+            "body_part": "chest",
+            "set": "Time",
+            "amiibo": true
+        },
+        {
+            "name": "Trousers of Time",
+            "body_part": "legs",
+            "set": "Time",
+            "amiibo": true
+        },
+        {
+            "name": "Cap of Twilight",
+            "body_part": "head",
+            "set": "Twilight",
+            "amiibo": true
+        },
+        {
+            "name": "Tunic of Twilight",
+            "body_part": "chest",
+            "set": "Twilight",
+            "amiibo": true
+        },
+        {
+            "name": "Trousers of Twilight",
+            "body_part": "legs",
+            "set": "Twilight",
+            "amiibo": true
+        },
+        {
+            "name": "Cap of the Wild",
+            "body_part": "head",
+            "set": "Wild",
+            "amiibo": false
+        },
+        {
+            "name": "Tunic of the Wild",
+            "body_part": "chest",
+            "set": "Wild",
+            "amiibo": false
+        },
+        {
+            "name": "Trousers of the Wild",
+            "body_part": "legs",
+            "set": "Wild",
+            "amiibo": false
+        },
+        {
+            "name": "Cap of the Wind",
+            "body_part": "head",
+            "set": "Wind",
+            "amiibo": true
+        },
+        {
+            "name": "Tunic of the Wind",
+            "body_part": "chest",
+            "set": "Wind",
+            "amiibo": true
+        },
+        {
+            "name": "Trousers of the Wind",
+            "body_part": "legs",
+            "set": "Wind",
+            "amiibo": true
+        },
+        {
+            "name": "Cap of the Hero",
+            "body_part": "head",
+            "set": "Hero",
+            "amiibo": true
+        },
+        {
+            "name": "Tunic of the Hero",
+            "body_part": "chest",
+            "set": "Hero",
+            "amiibo": true
+        },
+        {
+            "name": "Trousers of the Hero",
+            "body_part": "legs",
+            "set": "Hero",
+            "amiibo": true
+        },
+        {
+            "name": "Hylian Hood",
+            "body_part": "head",
+            "set": "Hylian",
+            "amiibo": false
+        },
+        {
+            "name": "Hylian Tunic",
+            "body_part": "chest",
+            "set": "Hylian",
+            "amiibo": false
+        },
+        {
+            "name": "Hylian Trousers",
+            "body_part": "legs",
+            "set": "Hylian",
+            "amiibo": false
+        },
+        {
+            "name": "Radiant Mask",
+            "body_part": "head",
+            "set": "Radiant",
+            "amiibo": false
+        },
+        {
+            "name": "Radiant Shirt",
+            "body_part": "chest",
+            "set": "Radiant",
+            "amiibo": false
+        },
+        {
+            "name": "Radiant Tights",
+            "body_part": "legs",
+            "set": "Radiant",
+            "amiibo": false
+        },
+        {
+            "name": "Rubber Helm",
+            "body_part": "head",
+            "set": "Rubber",
+            "amiibo": false
+        },
+        {
+            "name": "Rubber Armor",
+            "body_part": "chest",
+            "set": "Rubber",
+            "amiibo": false
+        },
+        {
+            "name": "Rubber Tights",
+            "body_part": "legs",
+            "set": "Rubber",
+            "amiibo": false
+        },
+        {
+            "name": "Snowquill Headdress",
+            "body_part": "head",
+            "set": "Snowquill",
+            "amiibo": false
+        },
+        {
+            "name": "Snowquill Tunic",
+            "body_part": "chest",
+            "set": "Snowquill",
+            "amiibo": false
+        },
+        {
+            "name": "Snowquill Trousers",
+            "body_part": "legs",
+            "set": "Snowquill",
+            "amiibo": false
+        },
+        {
+            "name": "Soldier's Helm",
+            "body_part": "head",
+            "set": "Soldier",
+            "amiibo": false
+        },
+        {
+            "name": "Soldier's Armor",
+            "body_part": "chest",
+            "set": "Soldier",
+            "amiibo": false
+        },
+        {
+            "name": "Soldier's Greaves",
+            "body_part": "legs",
+            "set": "Soldier",
+            "amiibo": false
+        },
+        {
+            "name": "Stealth Mask",
+            "body_part": "head",
+            "set": "Stealth",
+            "amiibo": false
+        },
+        {
+            "name": "Stealth Chest Guard",
+            "body_part": "chest",
+            "set": "Stealth",
+            "amiibo": false
+        },
+        {
+            "name": "Stealth Tights",
+            "body_part": "legs",
+            "set": "Stealth",
+            "amiibo": false
+        },
+        {
+            "name": "Zora Helm",
+            "body_part": "head",
+            "set": "Zora",
+            "amiibo": false
+        },
+        {
+            "name": "Zora Armor",
+            "body_part": "chest",
+            "set": "Zora",
+            "amiibo": false
+        },
+        {
+            "name": "Zora Greaves",
+            "body_part": "legs",
+            "set": "Zora",
+            "amiibo": false
+        }
     ]
 
 }

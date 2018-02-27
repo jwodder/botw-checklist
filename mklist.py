@@ -15,15 +15,17 @@ SHIELD_SPACE_MAX   = SHIELD_SPACE_START + 16
 with open('checklist.json') as fp:
     data = json.load(fp)
 
-shrines_by_region = defaultdict(list)
-for shrine in data["shrines"]:
-    shrines_by_region[shrine["region"]].append(shrine)
+def classify(iterable, field):
+    classed = defaultdict(list)
+    for obj in iterable:
+        classed[obj[field]].append(obj)
+    return classed
+
+shrines_by_region = classify(data["shrines"], 'region')
 for v in shrines_by_region.values():
     v.sort(key=itemgetter("name"))
 
-quests_by_region = defaultdict(list)
-for quest in data["side_quests"]:
-    quests_by_region[quest["region"]].append(quest)
+quests_by_region = classify(data["side_quests"], 'region')
 for v in quests_by_region.values():
     v.sort(key=itemgetter("name"))
 
@@ -31,11 +33,15 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'''
 \documentclass[10pt]{article}
 \usepackage{amssymb}
+\usepackage{bbding}
 \usepackage{enumitem}
 \usepackage[margin=1in]{geometry}
+\usepackage{longtable}
 \usepackage{multicol}
 \usepackage{tikz}
 \newcommand{\dlc}{\emph}
+\newcommand{\amiibo}{\emph}
+\newsavebox\ltmcbox
 \raggedcolumns
 \makeatletter
 \newlength{\chest@width}
@@ -117,6 +123,32 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
             print(r'\end{enumerate}')
 
         print(r'\end{multicols}')
+
+    print(r'\newpage')
+    print(r'\begin{multicols}{2}[\section*{Enhance Armor}]')
+    # <https://tex.stackexchange.com/a/46001/7280>
+    print(r'\setbox\ltmcbox\vbox{\makeatletter\col@number\@ne')
+    print(r'\begin{longtable}{r|ccccc}')
+    boxes = r' & $\square$' + r' & \FiveStarOpen' * 4 + r'\\'
+    armor_sets = classify(data["enhanceable_armor"], 'set')
+    for aset in sorted(k for k in armor_sets.keys() if k is not None):
+        chest,head,legs = sorted(armor_sets[aset], key=itemgetter("body_part"))
+        if chest["amiibo"]:
+            pre, post = r'\amiibo{', '}'
+        else:
+            pre, post = '', ''
+        print(pre, head["name"], post, boxes, sep='')
+        print(pre, chest["name"], post, boxes, sep='')
+        print(pre, legs["name"], post, boxes, sep='')
+        print(r'\hline')
+    for armor in sorted(armor_sets[None], key=itemgetter("name")):
+        if armor["amiibo"]:
+            print(r'\amiibo{', armor["name"], '}', boxes, sep='')
+        else:
+            print(armor["name"], boxes, sep='')
+    print(r'\end{longtable}')
+    print(r'\unskip\unpenalty\unpenalty}\unvbox\ltmcbox')
+    print(r'\end{multicols}')
 
     max_spaces = max(WEAPON_SPACE_MAX, BOW_SPACE_MAX, SHIELD_SPACE_MAX)
     print(r'\section*{Expand Inventory}')
