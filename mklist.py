@@ -124,6 +124,14 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 
         print(r'\end{multicols}')
 
+    assert all((quest["region"] is None) == quest.get("dlc", False)
+               for quest in data["side_quests"])
+    print(r'\section*{DLC Side Quests}')
+    print(r'\begin{enumerate}[label=$\square$]')
+    for quest in quests_by_region[None]:
+        print(r'\item \dlc{', quest["name"], '}', sep='')
+    print(r'\end{enumerate}')
+
     print(r'\newpage')
     print(r'\begin{multicols}{2}[\section*{Enhance Armor}]')
     # <https://tex.stackexchange.com/a/46001/7280>
@@ -131,6 +139,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\begin{longtable}{r|ccccc}')
     boxes = r' & $\square$' + r' & \FiveStarOpen' * 4 + r'\\'
     armor_sets = classify(data["enhanceable_armor"], 'set')
+    ### TODO: Sort by headgear name instead of set name:
     for aset in sorted(k for k in armor_sets.keys() if k is not None):
         chest,head,legs = sorted(armor_sets[aset], key=itemgetter("body_part"))
         if chest["amiibo"]:
@@ -198,7 +207,6 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(r'\end{enumerate}')
     print(r'\end{multicols}')
 
-    ### regionless/DLC side quests
-    ### DLC shrines
+    ### TODO: DLC shrines
 
     print(r'\end{document}')
