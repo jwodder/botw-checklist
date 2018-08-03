@@ -4641,59 +4641,82 @@
     "dogs": [
         {
             "region": "Akkala",
-            "location": "East Akkala Stable"
+            "location": "East Akkala Stable",
+            "item": "Shock Arrow",
+            "item_qty": 10
         },
         {
             "region": "Wasteland",
-            "location": "Gerudo Canyon Stable"
+            "location": "Gerudo Canyon Stable",
+            "item": "Ice Arrow",
+            "item_qty": 10
         },
         {
             "region": "Hateno",
-            "location": "Hateno Village"
+            "location": "Hateno Village",
+            "item": "Silver Rupee"
         },
         {
             "region": "Lake",
-            "location": "Highland Stable"
+            "location": "Highland Stable",
+            "item": "Silver Rupee"
         },
         {
             "region": "Wasteland",
-            "location": "Kara Kara Bazaar"
+            "location": "Kara Kara Bazaar",
+            "item": "Knight's Bow"
         },
         {
             "region": "Faron",
-            "location": "Lakeside Stable"
+            "location": "Lakeside Stable",
+            "item": "Forest Dweller's Spear"
         },
         {
             "region": "Faron",
-            "location": "Lurelin Village"
+            "location": "Lurelin Village",
+            "item": "Star Fragment"
         },
         {
             "region": "Central",
-            "location": "Outskirt Stable"
+            "location": "Outskirt Stable",
+            "item": "Silver Rupee"
         },
         {
             "region": "Woodland",
-            "location": "Serenne Stable"
+            "location": "Serenne Stable",
+            "item": "Gold Rupee"
         },
         {
             "region": "Hebra",
-            "location": "Snowfield Stable"
+            "location": "Snowfield Stable",
+            "item": "Feathered Spear"
+        },
+        {
+            "region": "Hebra",
+            "location": "Snowfield Stable",
+            "item": "Star Fragment"
         },
         {
             "region": "Akkala",
-            "location": "South Akkala Stable"
+            "location": "South Akkala Stable",
+            "item": "Knight's Claymore"
         },
         {
             "region": "Akkala",
-            "location": "Tarrey Town"
+            "location": "Tarrey Town",
+            "item": "Bomb Arrow",
+            "item_qty": 5
         },
         {
             "region": "Lanayru",
-            "location": "Wetland Stable"
+            "location": "Wetland Stable",
+            "item": "Opal"
         },
         {
             "region": "Woodland",
-            "location": "Woodland Stable"
+            "location": "Woodland Stable",
+            "item": "Ice Arrow",
+            "item_qty": 10
         }
     ],
 

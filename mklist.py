@@ -183,6 +183,10 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\begin{enumerate}[label=$\square$]')
     for dog in data["dogs"]:
         print(r'\item', dog["location"])
+        if dog.get("item_qty"):
+            print(r'({item} $\times {item_qty}$)'.format_map(dog))
+        else:
+            print(r'({item})'.format_map(dog))
     print(r'\end{enumerate}')
     print(r'\end{enumerate}')
 
