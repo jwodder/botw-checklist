@@ -188,6 +188,7 @@
             "region": "Great Plateau",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX The Champions' Ballad",
             "trial": "Path of Light"
         },
         {
@@ -321,7 +322,8 @@
             "region": "Eldin",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Daruk's Song",
+            "trial": "Moving Targets"
         },
         {
             "name": "Katah Chuki Shrine",
@@ -370,7 +372,8 @@
             "region": "Akkala",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Mipha's Song",
+            "trial": "The Melting Point"
         },
         {
             "name": "Keeha Yoog Shrine",
@@ -391,6 +394,7 @@
             "region": "Wasteland",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Urbosa's Song",
             "trial": "Big or Small"
         },
         {
@@ -426,6 +430,7 @@
             "region": "Hebra",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Revali's Song",
             "trial": "Master the Orb"
         },
         {
@@ -433,7 +438,8 @@
             "region": "Wasteland",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Urbosa's Song",
+            "trial": "Inside the Box"
         },
         {
             "name": "Korgu Chideh Shrine",
@@ -496,7 +502,8 @@
             "region": "Lanayru",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Mipha's Song",
+            "trial": "Secret Stairway"
         },
         {
             "name": "Maka Rah Shrine",
@@ -590,10 +597,11 @@
             "trial": "Pushing Power"
         },
         {
-            "name": "Noe Ragee Shrine",
+            "name": "Noe Rajee Shrine",
             "region": "Tabantha",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Revali's Song",
             "trial": "The Four Winds"
         },
         {
@@ -671,6 +679,7 @@
             "region": "Eldin",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Daruk's Song",
             "trial": "Block the Blaze"
         },
         {
@@ -685,6 +694,7 @@
             "region": "Great Plateau",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX The Champions' Ballad",
             "trial": "Stop to Start"
         },
         {
@@ -720,6 +730,7 @@
             "region": "Great Plateau",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX The Champions' Ballad",
             "trial": "A Major Test of Strength+"
         },
         {
@@ -748,7 +759,8 @@
             "region": "Lanayru",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Mipha's Song",
+            "trial": "Support and Guidance"
         },
         {
             "name": "Sha Gehma Shrine",
@@ -811,7 +823,8 @@
             "region": "Eldin",
             "quest": null,
             "dlc": true,
-            "trial": "???"
+            "dlc_quest": "EX Champion Daruk's Song",
+            "trial": "Blind Spots"
         },
         {
             "name": "Shee Vaneer Shrine",
@@ -846,6 +859,7 @@
             "region": "Ridgeland",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Revali's Song",
             "trial": "Aim for Stillness"
         },
         {
@@ -916,6 +930,7 @@
             "region": "Wasteland",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX Champion Urbosa's Song",
             "trial": "Dual Purpose"
         },
         {
@@ -1007,6 +1022,7 @@
             "region": "Great Plateau",
             "quest": null,
             "dlc": true,
+            "dlc_quest": "EX The Champions' Ballad",
             "trial": "Collected Soul"
         },
         {
