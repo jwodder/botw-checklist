@@ -5143,6 +5143,519 @@
             "set": "Zora",
             "amiibo": false
         }
+    ],
+
+    "moldugas": [
+        {
+            "region": "Wasteland",
+            "display_location": "Arbiter's Grounds",
+            "display_name": "Molduga",
+            "species": "Molduga"
+        },
+        {
+            "region": "Wasteland",
+            "display_location": "North Dragon's Exile",
+            "display_name": "Molduga",
+            "species": "Molduga"
+        },
+        {
+            "region": "Wasteland",
+            "display_location": "Southern Oasis",
+            "display_name": "Molduga",
+            "species": "Molduga"
+        },
+        {
+            "region": "Wasteland",
+            "display_location": "Toruma Dunes",
+            "display_name": "Molduga",
+            "species": "Molduga"
+        }
+    ],
+
+    "hinoxes": [
+        {
+            "region": "Faron",
+            "display_location": "Kamah Plateau",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Mount Taran",
+            "display_name": "Hinox (Youngest Kin)",
+            "species": "Hinox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Tobio's Hollow",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Phalian Highlands",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Purifier Lake",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "West Loshlo Harbor",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Kincean Island",
+            "display_name": "Hinox",
+            "species": "Hinox"
+        },
+        {
+            "region": "Akkala",
+            "display_location": "South Akkala Plains",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Central",
+            "display_location": "Applean Forest",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Central",
+            "display_location": "Digdogg Suspension Bridge",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Central",
+            "display_location": "East Ranch Ruins",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Eventide Island",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Mount Taran",
+            "display_name": "Hinox (Middle Kin)",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Trotter's Downfall",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Lake",
+            "display_location": "Herin Lake",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Ja'Abu Ridge",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Ralis Pond",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Talus Plateau",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Ridgeland",
+            "display_location": "Seres Scablands",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Ridgeland",
+            "display_location": "West Hyrule Plains",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Woodland",
+            "display_location": "Aldor Foothills",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Woodland",
+            "display_location": "North Hyrule Castle",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Woodland",
+            "display_location": "Thyphlo Ruins",
+            "display_name": "Hinox",
+            "species": "Blue Hinox"
+        },
+        {
+            "region": "Akkala",
+            "display_location": "Tempest Gulch",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Central",
+            "display_location": "Giant's Forest",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "East Gut Check Rock",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Mount Taran",
+            "display_name": "Hinox (Oldest Kin)",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "Hebra West Summit",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Tabahl Woods",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Tabantha",
+            "display_location": "Lake Totori South",
+            "display_name": "Hinox",
+            "species": "Black Hinox"
+        },
+        {
+            "region": "Akkala",
+            "display_location": "East Akkala Plains",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Central",
+            "display_location": "East Hyrule Castle",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Central",
+            "display_location": "Hyrule Castle Underground",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Dueling Peaks",
+            "display_location": "Hickaly Woods",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Faron",
+            "display_location": "North Aris Beach",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "Icefall Foothills",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Lake",
+            "display_location": "Eastern Daval Peak",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Lake",
+            "display_location": "Harfin Valley",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Ridgeland",
+            "display_location": "Satori Mountain",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        },
+        {
+            "region": "Woodland",
+            "display_location": "Rowan Plain",
+            "display_name": "Stalnox",
+            "species": "Stalnox"
+        }
+    ],
+
+    "taluses": [
+        {
+            "region": "Dueling Peaks",
+            "display_location": "Dueling Peaks South",
+            "display_name": "Stone Talus (Junior)",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Dueling Peaks",
+            "display_location": "North Dueling Peaks",
+            "display_name": "Stone Talus (Senior)",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Dueling Peaks",
+            "display_location": "North Mable Ridge",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Dueling Peaks",
+            "display_location": "West Nabi Lake",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Gama Cove",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Lake Floria",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Faron",
+            "display_location": "Martha's Landing",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Great Plateau",
+            "display_location": "Great Plateau",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Cliffs of Quince",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Ovli Plain",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Lake",
+            "display_location": "Deya Lake",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus"
+        },
+        {
+            "region": "Central",
+            "display_location": "Crenel Hills",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Central",
+            "display_location": "Lake Kolomo",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Dueling Peaks",
+            "display_location": "Lake Hylia North",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "Mount Nabooru",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "Rutimala Hill",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "South Taafei Hill",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Hateno",
+            "display_location": "Mapla Point",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Lake",
+            "display_location": "East Mount Granajh",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Lanayru",
+            "display_location": "Southern Tal Tal Peak",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Ridgeland",
+            "display_location": "Upland Lindor",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Wasteland",
+            "display_location": "Champion's Gate North",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Wasteland",
+            "display_location": "South Koukot Plateau",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Luminous)"
+        },
+        {
+            "region": "Central",
+            "display_location": "Hyrule Castle Underground",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Central",
+            "display_location": "Hyrule Castle West",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "West Vatorsa Snowfield",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "Tabantha Hills",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Ridgeland",
+            "display_location": "Illumeni Plateau",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Tabantha",
+            "display_location": "Gisa Crater",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Tabantha",
+            "display_location": "Kolami Bridge South",
+            "display_name": "Stone Talus",
+            "species": "Stone Talus (Rare)"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "Laparoh Mesa",
+            "display_name": "Frost Talus",
+            "species": "Frost Talus"
+        },
+        {
+            "region": "Gerudo",
+            "display_location": "West Sapphia's Table",
+            "display_name": "Frost Talus",
+            "species": "Frost Talus"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "Coldsnap Hollow",
+            "display_name": "Frost Talus",
+            "species": "Frost Talus"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "Pikida Stonegrove",
+            "display_name": "Frost Talus",
+            "species": "Frost Talus"
+        },
+        {
+            "region": "Hebra",
+            "display_location": "West Rospro Pass",
+            "display_name": "Frost Talus",
+            "species": "Frost Talus"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "Darb Pond",
+            "display_name": "Igneo Talus",
+            "species": "Igneo Talus"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "Darunia Lake",
+            "display_name": "Igneo Talus",
+            "species": "Igneo Talus"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "Gorko Lake",
+            "display_name": "Igneo Talus",
+            "species": "Igneo Talus"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "Goronbi Lake North",
+            "display_name": "Igneo Talus",
+            "species": "Igneo Talus"
+        },
+        {
+            "region": "Eldin",
+            "display_location": "Lake Darman",
+            "display_name": "Igneo Talus",
+            "species": "Igneo Talus"
+        }
     ]
 
 }
