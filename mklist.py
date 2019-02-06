@@ -76,61 +76,61 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\begin{multicols}{2}')
 
     print(r'\section*{Main Quests}')
-    print(r'\begin{enumerate}[label=$\square$]')
+    print(r'\begin{itemize}[label=$\square$]')
     for quest in data["main_quests"]:
         print(r'\item', quest)
     for quest in data["dlc_main_quests"]:
         print(r'\item \dlc{', quest, '}', sep='')
-    print(r'\end{enumerate}')
+    print(r'\end{itemize}')
 
     print(r'\columnbreak')
     print(r'\section*{Recovered Memories}')
-    print(r'\begin{enumerate}[label=$\square$]')
+    print(r'\begin{itemize}[label=$\square$]')
     for i, mem in enumerate(data["memories"], start=1):
         print(r'\item ', i, '. ', mem, sep='')
-    print(r'\end{enumerate}')
+    print(r'\end{itemize}')
 
     print(r'\end{multicols}')
 
     for region in data["regions"]:
         print(r'\section*{' + region["tower"] + ' Region}')
 
-        print(r'\begin{enumerate}[label=$\square$]')
+        print(r'\begin{itemize}[label=$\square$]')
         print(r'\item Activate', region["tower"])
-        print(r'\end{enumerate}')
+        print(r'\end{itemize}')
 
         if quests_by_region[region["name"]]:
             print(r'\begin{multicols}{2}')
             print(r'\subsection*{Shrines}')
         else:
             print(r'\begin{multicols}{2}[\subsection*{Shrines}]')
-        print(r'\begin{enumerate}[label=$\square$\thinspace\protect\chest]')
+        print(r'\begin{itemize}[label=$\square$\thinspace\protect\chest]')
         for shrine in shrines_by_region[region["name"]]:
             if not shrine["dlc"]:
                 print(r'\item {name} \emph{{({trial})}}'.format(**shrine))
                 if shrine["quest"] is not None:
-                    print(r'\begin{enumerate}[label=$\square$]')
+                    print(r'\begin{itemize}[label=$\square$]')
                     print(r'\item Shrine Quest:', shrine["quest"])
-                    print(r'\end{enumerate}')
-        print(r'\end{enumerate}')
+                    print(r'\end{itemize}')
+        print(r'\end{itemize}')
 
         if quests_by_region[region["name"]]:
             print(r'\columnbreak')
             print(r'\subsection*{Side Quests}')
-            print(r'\begin{enumerate}[label=$\square$]')
+            print(r'\begin{itemize}[label=$\square$]')
             for quest in quests_by_region[region["name"]]:
                 print(r'\item', quest["name"])
-            print(r'\end{enumerate}')
+            print(r'\end{itemize}')
 
         print(r'\end{multicols}')
 
     assert all((quest["region"] is None) == quest.get("dlc", False)
                for quest in data["side_quests"])
     print(r'\section*{DLC Side Quests}')
-    print(r'\begin{enumerate}[label=$\square$]')
+    print(r'\begin{itemize}[label=$\square$]')
     for quest in quests_by_region[None]:
         print(r'\item \dlc{', quest["name"], '}', sep='')
-    print(r'\end{enumerate}')
+    print(r'\end{itemize}')
 
     print(r'\newpage')
     print(r'\begin{multicols}{2}[\section*{Enhance Armor}]')
@@ -176,26 +176,26 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
     print(r'\end{tabular}')
 
     print(r'\section*{Other}')
-    print(r'\begin{enumerate}[label=$\square$]')
+    print(r'\begin{itemize}[label=$\square$]')
     for other in data["other"]:
         print(r'\item', other["name"])
     print(r"\item Find dogs' buried treasures:")
-    print(r'\begin{enumerate}[label=$\square$]')
+    print(r'\begin{itemize}[label=$\square$]')
     for dog in data["dogs"]:
         print(r'\item', dog["location"])
         if dog.get("item_qty"):
             print(r'({item} $\times {item_qty}$)'.format_map(dog))
         else:
             print(r'({item})'.format_map(dog))
-    print(r'\end{enumerate}')
-    print(r'\end{enumerate}')
+    print(r'\end{itemize}')
+    print(r'\end{itemize}')
 
     print(r'\newpage')
     print(r'\section*{Hyrule Compendium}')
     print(r'\begin{multicols}{2}')
     for section, entries in groupby(data["compendium"], itemgetter("section")):
         print(r'\subsection*{', section, '}', sep='')
-        print(r'\begin{enumerate}[label=$\square$]')
+        print(r'\begin{itemize}[label=$\square$]')
         for e in entries:
             number = e["dlc_number"]
             master = e["dlc_master_number"]
@@ -208,7 +208,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
                 if e["number"] is None:
                     name = r'\dlc{' + e["name"] + '}'
             print(r'\item ', number, r'/\textbf{', master, '}. ', name, sep='')
-        print(r'\end{enumerate}')
+        print(r'\end{itemize}')
     print(r'\end{multicols}')
 
     ### TODO: DLC shrines
