@@ -4,6 +4,7 @@ from   contextlib  import redirect_stdout
 from   itertools   import groupby
 import json
 from   operator    import itemgetter
+import re
 
 WEAPON_SPACE_START = 9
 WEAPON_SPACE_MAX   = WEAPON_SPACE_START + 11
@@ -174,6 +175,28 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
         print(label, '& --' * start, r'& $\square$' * (maxxed - start),
               '& ' * (max_spaces - maxxed), r'\\')
     print(r'\end{tabular}')
+
+    print(r'\section*{Overworld Mini-bosses}')
+    for sg, pl, key, species in [
+        ('Hinox', 'Hinoxes', 'hinoxes', 'Hinox'),
+        ('Talus', 'Taluses', 'taluses', 'Stone Talus'),
+        ('Molduga', 'Moldugas', 'moldugas', 'Molduga'),
+    ]:
+        print(r'\subsection*{', pl, '}', sep='')
+        print(r'\begin{itemize}[label=$\square$]')
+        for boss in data[key]:  ### TODO: Sort
+            print(r'\item', boss["region"], '---', boss["display_location"])
+            if boss["species"] != species:
+                m = re.fullmatch(
+                    r'{} \((.+)\)'.format(re.escape(species)),
+                    boss["species"],
+                )
+                if m:
+                    print('(', m.group(1), ')', sep='')
+                else:
+                    print('(', boss["species"], ')', sep='')
+        print(r'\item Get Medal of Honor:', sg, 'from Kilton')
+        print(r'\end{itemize}')
 
     print(r'\section*{Other}')
     print(r'\begin{itemize}[label=$\square$]')
