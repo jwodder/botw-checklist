@@ -42,6 +42,7 @@ with open('checklist.tex', 'w') as fp, redirect_stdout(fp):
 \usepackage{tikz}
 \newcommand{\dlc}{\emph}
 \newcommand{\amiibo}{\emph}
+\setlist[itemize]{noitemsep}
 \newsavebox\ltmcbox
 \raggedcolumns
 \makeatletter
