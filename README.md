@@ -3,6 +3,10 @@ the video game *The Legend of Zelda: Breath of the Wild*.  The checklist data
 is stored as JSON in [`checklist.json`](/checklist.json) alongside additional
 files for converting it to a printable PDF file.
 
+A copy of the PDF produced from this repository can be downloaded via [the
+"Releases" page](https://github.com/jwodder/botw-checklist/releases); select
+the `checklist.pdf` asset under the latest release.
+
 
 Building the PDF
 ================
